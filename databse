@@ -1,0 +1,185 @@
+import os
+import re
+from datetime import datetime
+from pathlib import Path
+
+import mysql.connector
+from mysql.connector import errorcode
+from dotenv import load_dotenv
+
+# ---------------------------
+# Config
+# ---------------------------
+from dotenv import load_dotenv
+load_dotenv()  # reads .env in current folder
+
+DB_CFG = {
+    "host": os.getenv("MYSQL_HOST", "localhost"),
+    "port": int(os.getenv("MYSQL_PORT", "3306")),
+    "user": os.getenv("MYSQL_USER", "root"),
+    "password": os.getenv("MYSQL_PASSWORD", ""),
+    "database": os.getenv("MYSQL_DB", "tvguide"),
+}
+
+INPUT_FILES = [
+    "tv_programs_bbc.txt",
+    "tv_programs_disc.txt",
+    "tv_programs_national.txt",
+]
+
+RECORD_SEP = re.compile(r"^-{3,}\s*$")  # lines of ----…
+KV_LINE = re.compile(r"^\s*([^:]+)\s*:\s*(.*)\s*$")
+
+def parse_file(path: Path):
+    """
+    Parse one text file into a list of normalized dicts.
+    Blocks look like 'Key: Value' lines separated by '----' lines.
+    """
+    items = []
+    with path.open("r", encoding="utf-8") as f:
+        block = []
+        for line in f:
+            if RECORD_SEP.match(line):
+                if block:
+                    items.append(parse_block(block, source_file=path.name))
+                    block = []
+            else:
+                if line.strip():  # skip pure blank lines
+                    block.append(line.rstrip("\n"))
+        # catch last block (no trailing dashes)
+        if block:
+            items.append(parse_block(block, source_file=path.name))
+    return [i for i in items if i]  # drop Nones
+
+def parse_block(lines, source_file):
+    data = {}
+    for ln in lines:
+        m = KV_LINE.match(ln)
+        if m:
+            key, val = m.group(1).strip(), m.group(2).strip()
+            data[key] = val
+
+    # Map incoming keys -> DB columns
+    title         = data.get("Title") or None
+    day_name      = data.get("Day") or None
+    date_str      = data.get("Date") or None
+    start_time    = data.get("Start Time") or None
+    end_time      = data.get("End Time") or None
+    duration_str  = data.get("Duration") or None
+    channel       = data.get("Channel") or None
+    link          = data.get("Link") or None
+    original_name = data.get("Original Name") or None
+    year_str      = data.get("Year") or None
+    description   = data.get("Description") or None
+    score_str     = data.get("Score") or None
+    genre         = data.get("Genre") or None
+
+    # Normalize types
+    air_date = None
+    if date_str:
+        try:
+            air_date = datetime.strptime(date_str, "%d.%m.%Y").date()
+        except ValueError:
+            pass
+
+    def to_time(s):
+        if not s:
+            return None
+        try:
+            return datetime.strptime(s, "%H:%M").time()
+        except ValueError:
+            return None
+
+    start_t = to_time(start_time)
+    end_t   = to_time(end_time)
+
+    duration_min = None
+    if duration_str:
+        m = re.search(r"(\d+)", duration_str)
+        duration_min = int(m.group(1)) if m else None
+
+    prod_year = None
+    if year_str:
+        m = re.search(r"\d{4}", year_str)
+        prod_year = int(m.group(0)) if m else None
+
+    score_pct = None
+    if score_str:
+        m = re.search(r"(\d+)", score_str)
+        score_pct = int(m.group(1)) if m else None
+
+    return {
+        "title": title,
+        "day_name": day_name,
+        "air_date": air_date,
+        "start_time": start_t,
+        "end_time": end_t,
+        "duration_min": duration_min,
+        "channel": channel,
+        "link": link,
+        "original_name": original_name,
+        "prod_year": prod_year,
+        "description": description,
+        "score_pct": score_pct,
+        "genre": genre,
+        "source_file": source_file,
+    }
+
+def upsert_rows(conn, rows):
+    """
+    Insert or update based on UNIQUE(channel, air_date, start_time, title).
+    """
+    sql = """
+    INSERT INTO programs
+      (title, day_name, air_date, start_time, end_time, duration_min,
+       channel, link, original_name, prod_year, description, score_pct, genre, source_file)
+    VALUES
+      (%(title)s, %(day_name)s, %(air_date)s, %(start_time)s, %(end_time)s, %(duration_min)s,
+       %(channel)s, %(link)s, %(original_name)s, %(prod_year)s, %(description)s, %(score_pct)s, %(genre)s, %(source_file)s)
+    ON DUPLICATE KEY UPDATE
+       day_name=VALUES(day_name),
+       end_time=VALUES(end_time),
+       duration_min=VALUES(duration_min),
+       link=VALUES(link),
+       original_name=VALUES(original_name),
+       prod_year=VALUES(prod_year),
+       description=VALUES(description),
+       score_pct=VALUES(score_pct),
+       genre=VALUES(genre),
+       source_file=VALUES(source_file);
+    """
+    with conn.cursor() as cur:
+        cur.executemany(sql, rows)
+    conn.commit()
+
+def main():
+    # Connect
+    try:
+        conn = mysql.connector.connect(**DB_CFG)
+    except mysql.connector.Error as e:
+        if e.errno == errorcode.ER_ACCESS_DENIED_ERROR:
+            raise SystemExit("DB auth failed. Check MYSQL_USER / MYSQL_PASSWORD.")
+        elif e.errno == errorcode.ER_BAD_DB_ERROR:
+            raise SystemExit("Database does not exist. Create it first (see SQL DDL above).")
+        else:
+            raise
+
+    all_rows = []
+    for f in INPUT_FILES:
+        p = Path(f)
+        if not p.exists():
+            print(f"WARNING: {p} not found, skipping.")
+            continue
+        rows = parse_file(p)
+        all_rows.extend(rows)
+
+    if not all_rows:
+        print("No rows parsed. Nothing to insert.")
+        return
+
+    upsert_rows(conn, all_rows)
+    print(f"Inserted/updated {len(all_rows)} rows.")
+    conn.close()
+
+if __name__ == "__main__":
+    main()
