@@ -33,5 +33,3 @@ def channel_counts():
 def index():
     return "TV Guide API is running. Use /programs for data, /channel_counts for channel summary."
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True)
