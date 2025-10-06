@@ -1,997 +1,3 @@
-Title: Nejnebezpečnější počasí na světě 8
-Day: Piatok
-Date: 03.10.2025
-Start Time: 05:05
-End Time: 06:00
-Duration: 55 min
-Channel: BBC Earth
-Link: /5817315-sk/program/nejnebezpecnejsi-pocasi-na-svete/
-Original Name: The World’s Deadliest Weather
-Year: 2020
-Description: VB (2020). Ve Velkém kaňonu způsobí mohutný microburst nebezpečnou záplavu bahna a hornin, které zasáhnou skupinu kajakářů - a ti budou potřebovat naléhavou lékařskou pomoc. V Iowě je kamerou zachycena vzácná bouře derečo - podobná vnitrozemskému hurikánu.
-Score: 55%
-Genre: 
-----------------------------------------
-Title: Dunaj s Joannou Lumley: Největší evropská řeka 2
-Day: Piatok
-Date: 03.10.2025
-Start Time: 06:00
-End Time: 07:00
-Duration: 60 min
-Channel: BBC Earth
-Link: /14757099-sk/program/dunaj-s-joannou-lumley-nejvetsi-evropska-reka/
-Original Name: Joanna Lumley’s Danube: Europe’s Mightiest River
-Year: 
-Description: Joanna zjistí, že „modrý Dunaj je stálou připomínkou neměnné krásy Evropy, jejích minulých triumfů a současných hrozeb. A také vláknem, které vše drží silně propojené. 2/4 4 2025 UK Eric McFarland 2312116
-Score: 49%
-Genre: 
-----------------------------------------
-Title: Život mimo civilizace s Benem Foglem 7
-Day: Piatok
-Date: 03.10.2025
-Start Time: 07:00
-End Time: 08:00
-Duration: 60 min
-Channel: BBC Earth
-Link: /5548531-sk/program/zivot-mimo-civilizace-s-benem-foglem/
-Original Name: Where the Wild Men Are with Ben Fogle
-Year: 2016
-Description: VB (2016). Ben vyrazí na tajné místo v americkém Apalačském pohoří, aby zde žil po boku obyvatele lesa Toda Kershawa, bývalého inženýra. Aby nezemřeli hlady, musí se příslušníci jeho divokého kmene živit odpadky jiných lidí. Uvádí: Ben Fogle.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Život pod bodem mrazu 10
-Day: Piatok
-Date: 03.10.2025
-Start Time: 08:00
-End Time: 09:00
-Duration: 60 min
-Channel: BBC Earth
-Link: /5544733-sk/program/zivot-pod-bodem-mrazu/
-Original Name: Life Below Zero
-Year: 2021
-Description: VB (2021). Obyvatelé Aljašky čelí nepřízni osudu, když se uprostřed zimy potýkají s neznámem.
-Score: 57%
-Genre: 
-----------------------------------------
-Title: V továrně 5
-Day: Piatok
-Date: 03.10.2025
-Start Time: 09:00
-End Time: 10:10
-Duration: 70 min
-Channel: BBC Earth
-Link: /10546699-sk/program/v-tovarne/
-Original Name: Inside the Factory
-Year: 2016
-Description: VB (2016). Pět set zaměstnanců a několik ohromujících strojů přemění cisternu plnou cukru na sto milionů bonbonů během pouhých 24 hodin. Uvádí: Gregg Wallace, Cherry Healey a Ruth Goodman.
-Score: 52%
-Genre: 
-----------------------------------------
-Title: Asie 2
-Day: Piatok
-Date: 03.10.2025
-Start Time: 10:10
-End Time: 11:30
-Duration: 80 min
-Channel: BBC Earth
-Link: /10928183-sk/program/asie/
-Original Name: Asia
-Year: 2024
-Description: VB (2024). Asie je nejhornatějším kontinentem na světě. Od tropického jihu až po vyprahlý střed jsou jeho nejvyšší místa domovem nejpozoruhodnější fauny a flóry naší planety.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Nejnebezpečnější počasí na světě 12
-Day: Piatok
-Date: 03.10.2025
-Start Time: 11:30
-End Time: 12:30
-Duration: 60 min
-Channel: BBC Earth
-Link: /6073277-sk/program/nejnebezpecnejsi-pocasi-na-svete/
-Original Name: The World’s Deadliest Weather
-Year: 2021
-Description: VB (2021). Hurikán Ida rozpoutá hrůzu v New Yorku a zanechá rodiny uvězněné v zatopených sklepích. Letovisko u jezera se změní v jezero plamenů, když severní Kalifornii zachvátí požár. A dobrodruh v kanadské Arktidě se statečně vypořádá se zimními bouřemi i hladovými vlky.
-Score: 55%
-Genre: 
-----------------------------------------
-Title: Tajemství superstárnutí 3
-Day: Piatok
-Date: 03.10.2025
-Start Time: 12:30
-End Time: 13:35
-Duration: 65 min
-Channel: BBC Earth
-Link: /6190193-sk/program/tajemstvi-superstarnuti/
-Original Name: Secrets of the Superagers
-Year: 2023
-Description: VB (2023). Michael Mosley se v Chicagu setká se 73letým jazzovým hudebníkem a zjistí, že díky muzicírování lze předejít ztrátě sluchu. Zjistí také, jak aerobním cvičením předcházet vzniku zeleného zákalu.
-Score: 57%
-Genre: 
-----------------------------------------
-Title: Dunaj s Joannou Lumley: Největší evropská řeka 3
-Day: Piatok
-Date: 03.10.2025
-Start Time: 13:35
-End Time: 14:35
-Duration: 60 min
-Channel: BBC Earth
-Link: /14845383-sk/program/dunaj-s-joannou-lumley-nejvetsi-evropska-reka/
-Original Name: Joanna Lumley’s Danube: Europe’s Mightiest River
-Year: 2025
-Description: VB (2025). V Budapešti zkoumá Joanna řeku na lodi, sveze se i jedinečným dětským vláčkem a objeví židovské dědictví města.
-Score: 58%
-Genre: 
-----------------------------------------
-Title: Život pod bodem mrazu 11
-Day: Piatok
-Date: 03.10.2025
-Start Time: 14:35
-End Time: 15:35
-Duration: 60 min
-Channel: BBC Earth
-Link: /5544821-sk/program/zivot-pod-bodem-mrazu/
-Original Name: Life Below Zero
-Year: 2021
-Description: VB (2021). Poslední dny zimy nutí obyvatele Aljašky překonávat mráz.
-Score: 57%
-Genre: 
-----------------------------------------
-Title: Život mimo civilizace s Benem Foglem 8
-Day: Piatok
-Date: 03.10.2025
-Start Time: 15:35
-End Time: 16:35
-Duration: 60 min
-Channel: BBC Earth
-Link: /5557119-sk/program/zivot-mimo-civilizace-s-benem-foglem/
-Original Name: Where the Wild Men Are with Ben Fogle
-Year: 2016
-Description: VB (2016). Ben cestuje do pohoří Atlas za párem, který zatratil americký sen a rozhodl se žít v odlehlé hliněné chatrči. Rozhodně to nemají lehké. Docházejí jim peníze i potrava. Uvádí: Ben Fogle.
-Score: 55%
-Genre: 
-----------------------------------------
-Title: Asie 3
-Day: Piatok
-Date: 03.10.2025
-Start Time: 16:35
-End Time: 17:50
-Duration: 75 min
-Channel: BBC Earth
-Link: /11011671-sk/program/asie/
-Original Name: Asia
-Year: 2024
-Description: VB (2024). V odlehlých končinách mrazivého severu Asie musí zvířata překonávat jedinečné problémy a hledat výjimečné způsoby, jak přežít v nehostinném světě, který dohání zvířata až na samou hranici možností.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: V továrně 6
-Day: Piatok
-Date: 03.10.2025
-Start Time: 17:50
-End Time: 19:00
-Duration: 70 min
-Channel: BBC Earth
-Link: /10560725-sk/program/v-tovarne/
-Original Name: Inside the Factory
-Year: 2016
-Description: VB (2016). Gregg Wallace se připojí k lidské výrobní lince v největší továrně na sportovní obuv ve Velké Británii a zjistí, jak továrna každý den vyrobí 3 500 párů tenisek. Uvádí: Gregg Wallace, Cherry Healey a Ruth Goodman.
-Score: 52%
-Genre: 
-----------------------------------------
-Title: Život pod bodem mrazu 4
-Day: Piatok
-Date: 03.10.2025
-Start Time: 19:00
-End Time: 20:00
-Duration: 60 min
-Channel: BBC Earth
-Link: /6357109-sk/program/zivot-pod-bodem-mrazu/
-Original Name: Life Below Zero
-Year: 2023
-Description: VB (2023). Obyvatelé Aljašky znovu objevují staré praktiky, aby překonali nejkrutější část zimy.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Život mimo civilizace s Benem Foglem 9
-Day: Piatok
-Date: 03.10.2025
-Start Time: 20:00
-End Time: 21:00
-Duration: 60 min
-Channel: BBC Earth
-Link: /5545847-sk/program/zivot-mimo-civilizace-s-benem-foglem/
-Original Name: Where the Wild Men Are with Ben Fogle
-Year: 2021
-Description: VB (2021). Ben jede na jedinečný ostrůvek ve skotských Hebridách, kde se setká s bývalým pracovníkem sociální péče Philipem, který v této malé, alternativní komunitě přijal nový způsob života. Uvádí: Ben Fogle.
-Score: 57%
-Genre: 
-----------------------------------------
-Title: Ben Fogle: Návrat do divočiny 5
-Day: Piatok
-Date: 03.10.2025
-Start Time: 21:00
-End Time: 22:00
-Duration: 60 min
-Channel: BBC Earth
-Link: /14963187-sk/program/ben-fogle-navrat-do-divociny/
-Original Name: Ben Fogle: Return to the Wild
-Year: 2024
-Description: VB (2024). Ben Fogle se vrací k Raurimu na ostrově Rathlin, který se rozhodl žít mimo civilizační sítě. Vymalují Rauriho dům a podiskutují o jeho zdravotních problémech i jeho odvážné cestě pro pomoc potřebným. Uvádí: Ben Fogle.
-Score: 58%
-Genre: 
-----------------------------------------
-Title: Dunaj s Joannou Lumley: Největší evropská řeka 2
-Day: Piatok
-Date: 03.10.2025
-Start Time: 22:00
-End Time: 23:05
-Duration: 65 min
-Channel: BBC Earth
-Link: /14757099-sk/program/dunaj-s-joannou-lumley-nejvetsi-evropska-reka/
-Original Name: Joanna Lumley’s Danube: Europe’s Mightiest River
-Year: 
-Description: Joanna zjistí, že „modrý Dunaj je stálou připomínkou neměnné krásy Evropy, jejích minulých triumfů a současných hrozeb. A také vláknem, které vše drží silně propojené. 2/4 4 2025 UK Eric McFarland 2312116
-Score: 49%
-Genre: 
-----------------------------------------
-Title: Nejnebezpečnější počasí na světě 9
-Day: Piatok
-Date: 03.10.2025
-Start Time: 23:05
-End Time: 23:55
-Duration: 50 min
-Channel: BBC Earth
-Link: /5829187-sk/program/nejnebezpecnejsi-pocasi-na-svete/
-Original Name: The World’s Deadliest Weather
-Year: 2020
-Description: VB (2020). V Nepálu silná vrstva sněhu zkomplikuje situaci turistům v himálajských horách, protože po zemětřesení do rušného základního tábora spadne lavina. V Pensylvánii spěchají dobří samaritáni zachránit tři děti uvězněné v částečně potopeném autě.
-Score: 55%
-Genre: 
-----------------------------------------
-Title: Superchirurgové 2
-Day: Piatok
-Date: 03.10.2025
-Start Time: 00:10
-End Time: 01:15
-Duration: 65 min
-Channel: BBC Earth
-Link: /11354999-sk/program/superchirurgove/
-Original Name: Super Surgeons
-Year: 2024
-Description: VB (2024). Bývalý námořní pilot Rich má obrovský, 16cm nádor od čelisti až k srdci. A Tracy musejí kvůli rakovině střev ve čtvrtém stadiu odstranit téměř všechny orgány v pánevní oblasti.
-Score: 58%
-Genre: 
-----------------------------------------
-Title: Život pod bodem mrazu 4
-Day: Piatok
-Date: 03.10.2025
-Start Time: 01:15
-End Time: 02:15
-Duration: 60 min
-Channel: BBC Earth
-Link: /6357109-sk/program/zivot-pod-bodem-mrazu/
-Original Name: Life Below Zero
-Year: 2023
-Description: VB (2023). Obyvatelé Aljašky znovu objevují staré praktiky, aby překonali nejkrutější část zimy.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Život mimo civilizace s Benem Foglem 9
-Day: Piatok
-Date: 03.10.2025
-Start Time: 02:15
-End Time: 03:00
-Duration: 45 min
-Channel: BBC Earth
-Link: /5545847-sk/program/zivot-mimo-civilizace-s-benem-foglem/
-Original Name: Where the Wild Men Are with Ben Fogle
-Year: 2021
-Description: VB (2021). Ben jede na jedinečný ostrůvek ve skotských Hebridách, kde se setká s bývalým pracovníkem sociální péče Philipem, který v této malé, alternativní komunitě přijal nový způsob života. Uvádí: Ben Fogle.
-Score: 57%
-Genre: 
-----------------------------------------
-Title: Ben Fogle: Návrat do divočiny 5
-Day: Piatok
-Date: 03.10.2025
-Start Time: 03:00
-End Time: 03:50
-Duration: 50 min
-Channel: BBC Earth
-Link: /14963187-sk/program/ben-fogle-navrat-do-divociny/
-Original Name: Ben Fogle: Return to the Wild
-Year: 2024
-Description: VB (2024). Ben Fogle se vrací k Raurimu na ostrově Rathlin, který se rozhodl žít mimo civilizační sítě. Vymalují Rauriho dům a podiskutují o jeho zdravotních problémech i jeho odvážné cestě pro pomoc potřebným. Uvádí: Ben Fogle.
-Score: 58%
-Genre: 
-----------------------------------------
-Title: Dunaj s Joannou Lumley: Největší evropská řeka 2
-Day: Piatok
-Date: 03.10.2025
-Start Time: 03:50
-End Time: 04:35
-Duration: 45 min
-Channel: BBC Earth
-Link: /14757099-sk/program/dunaj-s-joannou-lumley-nejvetsi-evropska-reka/
-Original Name: Joanna Lumley’s Danube: Europe’s Mightiest River
-Year: 
-Description: Joanna zjistí, že „modrý Dunaj je stálou připomínkou neměnné krásy Evropy, jejích minulých triumfů a současných hrozeb. A také vláknem, které vše drží silně propojené. 2/4 4 2025 UK Eric McFarland 2312116
-Score: 49%
-Genre: 
-----------------------------------------
-Title: Smrtící mise za žraloky 4
-Day: Piatok
-Date: 03.10.2025
-Start Time: 04:35
-End Time: 05:05
-Duration: 30 min
-Channel: BBC Earth
-Link: /6559447-sk/program/smrtici-mise-za-zraloky/
-Original Name: Deadly Mission Shark
-Year: 2023
-Description: VB (2023). Část týmu zkoumá mangrovové porosty, které jsou pro přežití některých žraloků nezbytné. Při tom se setkávají tváří v tvář s mláďaty žraloků citronových.
-Score: 54%
-Genre: 
-----------------------------------------
-Title: Nejnebezpečnější počasí na světě 9
-Day: Sobota
-Date: 04.10.2025
-Start Time: 05:05
-End Time: 06:00
-Duration: 55 min
-Channel: BBC Earth
-Link: /5829187-sk/program/nejnebezpecnejsi-pocasi-na-svete/
-Original Name: The World’s Deadliest Weather
-Year: 2020
-Description: VB (2020). V Nepálu silná vrstva sněhu zkomplikuje situaci turistům v himálajských horách, protože po zemětřesení do rušného základního tábora spadne lavina. V Pensylvánii spěchají dobří samaritáni zachránit tři děti uvězněné v částečně potopeném autě.
-Score: 55%
-Genre: 
-----------------------------------------
-Title: Ben Fogle: Návrat do divočiny 3
-Day: Sobota
-Date: 04.10.2025
-Start Time: 06:00
-End Time: 07:00
-Duration: 60 min
-Channel: BBC Earth
-Link: /5869031-sk/program/ben-fogle-navrat-do-divociny/
-Original Name: Ben Fogle: Return to the Wild
-Year: 2022
-Description: VB (2022). Dobrodruh Ben Fogle se vrací na pobřeží Pembrokeshiru, aby se setkal s Matthewem a Charis Watkinsonovými a jejich dvěma dětmi. Uvádí: Ben Fogle.
-Score: 57%
-Genre: 
-----------------------------------------
-Title: Putování s dinosaury 4
-Day: Sobota
-Date: 04.10.2025
-Start Time: 07:00
-End Time: 08:10
-Duration: 70 min
-Channel: BBC Earth
-Link: /14860231-sk/program/putovani-s-dinosaury/
-Original Name: Walking with Dinosaurs
-Year: 2025
-Description: VB (2025). Před sedmdesáti jedna miliony let žil mladý albertosaurus, rychlejší a mrštnější příbuzný T-rexe. Snaží najít své místo ve smrtící a hrůzu nahánějící lovecké smečce, jinak riskuje smrt hladem.
-Score: 58%
-Genre: 
-----------------------------------------
-Title: Život pod bodem mrazu 5
-Day: Sobota
-Date: 04.10.2025
-Start Time: 08:10
-End Time: 09:10
-Duration: 60 min
-Channel: BBC Earth
-Link: /5945017-sk/program/zivot-pod-bodem-mrazu/
-Original Name: Life Below Zero
-Year: 2019
-Description: VB (2019). Sue opravuje svůj srub v Cheně. DeWildeovi kladou sítě. Jessie tráví čas se svými psími mláďaty. Chipovi se po nehodě dostane lékařské pomoci.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Život mimo civilizace s Benem Foglem 9
-Day: Sobota
-Date: 04.10.2025
-Start Time: 09:10
-End Time: 10:15
-Duration: 65 min
-Channel: BBC Earth
-Link: /5545847-sk/program/zivot-mimo-civilizace-s-benem-foglem/
-Original Name: Where the Wild Men Are with Ben Fogle
-Year: 2021
-Description: VB (2021). Ben jede na jedinečný ostrůvek ve skotských Hebridách, kde se setká s bývalým pracovníkem sociální péče Philipem, který v této malé, alternativní komunitě přijal nový způsob života. Uvádí: Ben Fogle.
-Score: 57%
-Genre: 
-----------------------------------------
-Title: V továrně 10
-Day: Sobota
-Date: 04.10.2025
-Start Time: 10:15
-End Time: 11:25
-Duration: 70 min
-Channel: BBC Earth
-Link: /9198465-sk/program/v-tovarne/
-Original Name: Inside the Factory
-Year: 2024
-Description: VB (2024). Gregg Wallace navštíví pestrobarevnou továrnu, která každý týden vyrobí 200 000 litrů barev a 10 000 metrů tapet.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Zázraky Měsíce s Darou Ó Briainem 2
-Day: Sobota
-Date: 04.10.2025
-Start Time: 11:25
-End Time: 12:30
-Duration: 65 min
-Channel: BBC Earth
-Link: /8954269-sk/program/zazraky-mesice-s-darou-o-briainem/
-Original Name: Wonders of the Moon with Dara O Briain
-Year: 
-Description: Dara povypráví příběh o tom, jak zcela první fotografie odvrácené strany Měsíce vyvedla vědce z míry. Také si vyzkouší náhlavní soupravu pro virtuální realitu a podnikne svůj vlastní velký skok na „měsíční povrch. 2/2 2 2023 UK James Van Der Pool 2297856
-Score: 49%
-Genre: 
-----------------------------------------
-Title: Tajemné podsvětí Pompejí 2
-Day: Sobota
-Date: 04.10.2025
-Start Time: 12:30
-End Time: 13:30
-Duration: 60 min
-Channel: BBC Earth
-Link: /13326155-sk/program/tajemne-podsveti-pompeji/
-Original Name: Pompeii’s Secret Underworld
-Year: 2024
-Description: VB (2024). 2. díl. Pompeje byly sofistikovaným centrem starověké civilizace. Aspoň to jsme si doposud mysleli. Když se však nyní poskládají stopy, jež se nacházejí po celém městě, vychází najevo šokující pravda. Pompeje jsme dlouho pokládali za ospalé římské městečko plné klidu a prosperity. Ve skutečnosti šlo o místo plné násilí, rivality a orgií.
-Score: 57%
-Genre: 
-----------------------------------------
-Title: Měnící se planeta: Obnova řek 1
-Day: Sobota
-Date: 04.10.2025
-Start Time: 13:30
-End Time: 14:45
-Duration: 75 min
-Channel: BBC Earth
-Link: /14622005-sk/program/menici-se-planeta-obnova-rek/
-Original Name: Changing Planet: River Restoration
-Year: 2025
-Description: VB (2025). Do centra pozornosti se dostávají dva přední světové projekty určené k řešení problémů řek naší planety.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Život pod bodem mrazu 6
-Day: Sobota
-Date: 04.10.2025
-Start Time: 14:45
-End Time: 15:45
-Duration: 60 min
-Channel: BBC Earth
-Link: /6016435-sk/program/zivot-pod-bodem-mrazu/
-Original Name: Life Below Zero
-Year: 2019
-Description: VB (2019). Sue pokračuje v obnově srubu. Ricko se synem se vydávají do rodinného srubu. Jessie shromažďuje palivové dříví. Hailstoneovi loví pižmoně.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Ben Fogle: Návrat do divočiny 4
-Day: Sobota
-Date: 04.10.2025
-Start Time: 15:45
-End Time: 16:50
-Duration: 65 min
-Channel: BBC Earth
-Link: /5907661-sk/program/ben-fogle-navrat-do-divociny/
-Original Name: Ben Fogle: Return to the Wild
-Year: 2022
-Description: VB (2022). Ben Fogle se vrací do australského vnitrozemí, aby opět navštívil Barbaru Walker, která žije sama na odlehlém místě již šestnáct let. Uvádí: Ben Fogle.
-Score: 57%
-Genre: 
-----------------------------------------
-Title: Dunaj s Joannou Lumley: Největší evropská řeka 2
-Day: Sobota
-Date: 04.10.2025
-Start Time: 16:50
-End Time: 17:50
-Duration: 60 min
-Channel: BBC Earth
-Link: /14757099-sk/program/dunaj-s-joannou-lumley-nejvetsi-evropska-reka/
-Original Name: Joanna Lumley’s Danube: Europe’s Mightiest River
-Year: 
-Description: Joanna zjistí, že „modrý Dunaj je stálou připomínkou neměnné krásy Evropy, jejích minulých triumfů a současných hrozeb. A také vláknem, které vše drží silně propojené. 2/4 4 2025 UK Eric McFarland 2312116
-Score: 49%
-Genre: 
-----------------------------------------
-Title: V továrně 1
-Day: Sobota
-Date: 04.10.2025
-Start Time: 17:50
-End Time: 19:00
-Duration: 70 min
-Channel: BBC Earth
-Link: /8247959-sk/program/v-tovarne/
-Original Name: Inside the Factory
-Year: 2024
-Description: VB (2024). Gregg Wallace vchází do obrovské továrny na yorkshirské pudinky v Hullu, aby zjistil, jak dokáže firma Aunt Bessie’s každý rok vyrobit neuvěřitelných 500 milionů yorkshirských pudinků.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Život pod bodem mrazu 12
-Day: Sobota
-Date: 04.10.2025
-Start Time: 19:00
-End Time: 20:00
-Duration: 60 min
-Channel: BBC Earth
-Link: /5544915-sk/program/zivot-pod-bodem-mrazu/
-Original Name: Life Below Zero
-Year: 2021
-Description: VB (2021). Od severu k jihu se lidé na Aljašce spoléhají na rybolov, aby přežili.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Ben Fogle: Návrat do divočiny 2
-Day: Sobota
-Date: 04.10.2025
-Start Time: 20:00
-End Time: 21:00
-Duration: 60 min
-Channel: BBC Earth
-Link: /14685169-sk/program/ben-fogle-navrat-do-divociny/
-Original Name: Ben Fogle: Return to the Wild
-Year: 2024
-Description: VB (2024). Ben opět navštíví Alexe, který žije v horách středního Portugalska, aby zjistil, že Alex šel za svým snem vytvořit útočiště a že výrazně pokročil s infrastrukturou na svém pozemku. Uvádí: Ben Fogle.
-Score: 59%
-Genre: 
-----------------------------------------
-Title: Tajemství vašeho jídla 3
-Day: Sobota
-Date: 04.10.2025
-Start Time: 21:00
-End Time: 22:10
-Duration: 70 min
-Channel: BBC Earth
-Link: /5780387-sk/program/tajemstvi-vaseho-jidla/
-Original Name: The Secrets of your Food
-Year: 2017
-Description: VB (2017). James odhaluje nečekanou souvislost mezi čokoládou a mateřským mlékem. Pozoruhodný tým studuje účinek kofeinu na včely a Michael zjišťuje, jak na náš mozek působí pálivé papričky. Uvádí: Michael Mosley a James Wong.
-Score: 54%
-Genre: 
-----------------------------------------
-Title: Rybaření na hraně 7
-Day: Sobota
-Date: 04.10.2025
-Start Time: 22:10
-End Time: 23:15
-Duration: 65 min
-Channel: BBC Earth
-Link: /12543271-sk/program/rybareni-na-hrane/
-Original Name: Fishing Impossible
-Year: 2016
-Description: VB (2016). Pánové se připojí k týmu vědců, kteří chtějí v Jižní Africe chytit a označit několik žraloků. Aby přilákali tyto legendární dravce dostatečně blízko, zkusí je Blowfish přilákat pomocí rockové hudby... Uvádí: Jason Lewis, Tom Hird (aka The Blowfish) a Charlie Butcher.
-Score: 41%
-Genre: 
-----------------------------------------
-Title: Julius Caesar: Stvoření diktátora 2
-Day: Sobota
-Date: 04.10.2025
-Start Time: 23:15
-End Time: 00:05
-Duration: 50 min
-Channel: BBC Earth
-Link: /10991449-sk/program/julius-caesar-stvoreni-diktatora/
-Original Name: Julius Caesar: The Making of a Dictator
-Year: 2023
-Description: VB (2023). Události, které Caesar nemůže ovlivnit, hrozí zhatit jeho plány, a navíc by zůstal na vše sám. Zatlačen do kouta učiní rozhodnutí, které navždy změní chod republiky.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Fatální předpověď 2
-Day: Sobota
-Date: 04.10.2025
-Start Time: 00:30
-End Time: 01:35
-Duration: 65 min
-Channel: BBC Earth
-Link: /program/fatalni-predpoved/
-Original Name: Fatal Forecast
-Year: 2020
-Description: VB (2020). Nedávná zpráva zveřejněná NOAA a NASA potvrdila, že roky 2010 až 2019 byly nejteplejší dekádou od začátku vedení záznamů před 140 lety. V červenci 2018 byly po celém světě naměřeny nové teplotní rekordy a Death Valley zažilo nejteplejší měsíc, který byl kdy na Zemi zaznamenán.
-Score: 55%
-Genre: 
-----------------------------------------
-Title: Život pod bodem mrazu 12
-Day: Sobota
-Date: 04.10.2025
-Start Time: 01:35
-End Time: 02:30
-Duration: 55 min
-Channel: BBC Earth
-Link: /5544915-sk/program/zivot-pod-bodem-mrazu/
-Original Name: Life Below Zero
-Year: 2021
-Description: VB (2021). Od severu k jihu se lidé na Aljašce spoléhají na rybolov, aby přežili.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Ben Fogle: Návrat do divočiny 2
-Day: Sobota
-Date: 04.10.2025
-Start Time: 02:30
-End Time: 03:15
-Duration: 45 min
-Channel: BBC Earth
-Link: /14685169-sk/program/ben-fogle-navrat-do-divociny/
-Original Name: Ben Fogle: Return to the Wild
-Year: 2024
-Description: VB (2024). Ben opět navštíví Alexe, který žije v horách středního Portugalska, aby zjistil, že Alex šel za svým snem vytvořit útočiště a že výrazně pokročil s infrastrukturou na svém pozemku. Uvádí: Ben Fogle.
-Score: 59%
-Genre: 
-----------------------------------------
-Title: Tajemství vašeho jídla 3
-Day: Sobota
-Date: 04.10.2025
-Start Time: 03:15
-End Time: 04:05
-Duration: 50 min
-Channel: BBC Earth
-Link: /5780387-sk/program/tajemstvi-vaseho-jidla/
-Original Name: The Secrets of your Food
-Year: 2017
-Description: VB (2017). James odhaluje nečekanou souvislost mezi čokoládou a mateřským mlékem. Pozoruhodný tým studuje účinek kofeinu na včely a Michael zjišťuje, jak na náš mozek působí pálivé papričky. Uvádí: Michael Mosley a James Wong.
-Score: 54%
-Genre: 
-----------------------------------------
-Title: Rybaření na hraně 7
-Day: Sobota
-Date: 04.10.2025
-Start Time: 04:05
-End Time: 04:55
-Duration: 50 min
-Channel: BBC Earth
-Link: /12543271-sk/program/rybareni-na-hrane/
-Original Name: Fishing Impossible
-Year: 2016
-Description: VB (2016). Pánové se připojí k týmu vědců, kteří chtějí v Jižní Africe chytit a označit několik žraloků. Aby přilákali tyto legendární dravce dostatečně blízko, zkusí je Blowfish přilákat pomocí rockové hudby... Uvádí: Jason Lewis, Tom Hird (aka The Blowfish) a Charlie Butcher.
-Score: 41%
-Genre: 
-----------------------------------------
-Title: Asie: Film o filmu 2
-Day: Sobota
-Date: 04.10.2025
-Start Time: 04:55
-End Time: 05:05
-Duration: 10 min
-Channel: BBC Earth
-Link: /12091665-sk/program/asie-film-o-filmu/
-Original Name: Asia: Making Of
-Year: 2024
-Description: VB (2024). 2. díl. Pohled do zákulisí natáčení tohoto seriálu, který zkoumá největší kontinent naší planety.
-Score: 52%
-Genre: 
-----------------------------------------
-Title: Fatální předpověď 2
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 05:05
-End Time: 06:00
-Duration: 55 min
-Channel: BBC Earth
-Link: /program/fatalni-predpoved/
-Original Name: Fatal Forecast
-Year: 2020
-Description: VB (2020). Nedávná zpráva zveřejněná NOAA a NASA potvrdila, že roky 2010 až 2019 byly nejteplejší dekádou od začátku vedení záznamů před 140 lety. V červenci 2018 byly po celém světě naměřeny nové teplotní rekordy a Death Valley zažilo nejteplejší měsíc, který byl kdy na Zemi zaznamenán.
-Score: 55%
-Genre: 
-----------------------------------------
-Title: Ben Fogle: Návrat do divočiny 4
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 06:00
-End Time: 07:00
-Duration: 60 min
-Channel: BBC Earth
-Link: /5907661-sk/program/ben-fogle-navrat-do-divociny/
-Original Name: Ben Fogle: Return to the Wild
-Year: 2022
-Description: VB (2022). Ben Fogle se vrací do australského vnitrozemí, aby opět navštívil Barbaru Walker, která žije sama na odlehlém místě již šestnáct let. Uvádí: Ben Fogle.
-Score: 57%
-Genre: 
-----------------------------------------
-Title: Měnící se planeta: Obnova řek 1
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 07:00
-End Time: 08:05
-Duration: 65 min
-Channel: BBC Earth
-Link: /14622005-sk/program/menici-se-planeta-obnova-rek/
-Original Name: Changing Planet: River Restoration
-Year: 2025
-Description: VB (2025). Do centra pozornosti se dostávají dva přední světové projekty určené k řešení problémů řek naší planety.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Život pod bodem mrazu 6
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 08:05
-End Time: 09:10
-Duration: 65 min
-Channel: BBC Earth
-Link: /6016435-sk/program/zivot-pod-bodem-mrazu/
-Original Name: Life Below Zero
-Year: 2019
-Description: VB (2019). Sue pokračuje v obnově srubu. Ricko se synem se vydávají do rodinného srubu. Jessie shromažďuje palivové dříví. Hailstoneovi loví pižmoně.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Život mimo civilizace s Benem Foglem 10
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 09:10
-End Time: 10:10
-Duration: 60 min
-Channel: BBC Earth
-Link: /5545937-sk/program/zivot-mimo-civilizace-s-benem-foglem/
-Original Name: Where the Wild Men Are with Ben Fogle
-Year: 2021
-Description: VB (2021). Ben jede do Northumberlandu, kde se setká s Kezzem a Nathalií Petronelli-Stoneovými. Jejich ekologicky citlivý přístup k životu mimo civilizační sítě znamená, že nemají ani televizi. Uvádí: Ben Fogle.
-Score: 58%
-Genre: 
-----------------------------------------
-Title: V továrně 1
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 10:10
-End Time: 11:20
-Duration: 70 min
-Channel: BBC Earth
-Link: /8247959-sk/program/v-tovarne/
-Original Name: Inside the Factory
-Year: 2024
-Description: VB (2024). Gregg Wallace vchází do obrovské továrny na yorkshirské pudinky v Hullu, aby zjistil, jak dokáže firma Aunt Bessie’s každý rok vyrobit neuvěřitelných 500 milionů yorkshirských pudinků.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Zázraky Slunce s Darou Ó Briainem 1
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 11:20
-End Time: 12:20
-Duration: 60 min
-Channel: BBC Earth
-Link: /program/zazraky-slunce-s-darou-o-briainem/
-Original Name: Wonders of the Sun with Dara Ó Briain
-Year: 2024
-Description: VB (2024). Dara Ó Briain zkoumá náš vztah ke Slunci. Jak jeho zrození umožnilo náš život a jak by jej jeho zánik mohl vzít.
-Score: 58%
-Genre: 
-----------------------------------------
-Title: Síly dávnověku 1
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 12:20
-End Time: 13:30
-Duration: 70 min
-Channel: BBC Earth
-Link: /program/sily-davnoveku/
-Original Name: Ancient Powers
-Year: 2023
-Description: VB (2023). V krutém světě, kde je příroda přítelem i nepřítelem, naše starověké mocnosti teprve začínají. Musejí využít všech svých schopností a vynalézavosti, aby si utvořily své území a založily svou kulturu. Kdo ovládne zemi a zajistí si svou budoucnost?
-Score: 57%
-Genre: 
-----------------------------------------
-Title: Putování s dinosaury 5
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 13:30
-End Time: 14:35
-Duration: 65 min
-Channel: BBC Earth
-Link: /14952363-sk/program/putovani-s-dinosaury/
-Original Name: Walking with Dinosaurs
-Year: 2025
-Description: VB (2025). Epický příběh o stádu pachyrhinosaurů, jedné z největších skupin dinosaurů, které kdy žily, očima jeho mladého člena Albieho.
-Score: 58%
-Genre: 
-----------------------------------------
-Title: Život pod bodem mrazu 7
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 14:35
-End Time: 15:40
-Duration: 65 min
-Channel: BBC Earth
-Link: /6024267-sk/program/zivot-pod-bodem-mrazu/
-Original Name: Life Below Zero
-Year: 2019
-Description: VB (2019). Sue sbírá palivové dříví. Ricko a jeho syn Skyler jdou chytat bobra. Jessie zkoumá svou nově zakoupenou půdu. Hailstoneovi jsou na řece.
-Score: 55%
-Genre: 
-----------------------------------------
-Title: Ben Fogle: Návrat do divočiny 5
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 15:40
-End Time: 16:45
-Duration: 65 min
-Channel: BBC Earth
-Link: /5919783-sk/program/ben-fogle-navrat-do-divociny/
-Original Name: Ben Fogle: Return to the Wild
-Year: 2022
-Description: VB (2022). Ben Fogle se vrací do Švédska navštívit Italku Annalisu, která žije hluboko v lesích se svým malým synem Nicem. Uvádí: Ben Fogle.
-Score: 58%
-Genre: 
-----------------------------------------
-Title: Dunaj s Joannou Lumley: Největší evropská řeka 3
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 16:45
-End Time: 17:50
-Duration: 65 min
-Channel: BBC Earth
-Link: /14845383-sk/program/dunaj-s-joannou-lumley-nejvetsi-evropska-reka/
-Original Name: Joanna Lumley’s Danube: Europe’s Mightiest River
-Year: 2025
-Description: VB (2025). V Budapešti zkoumá Joanna řeku na lodi, sveze se i jedinečným dětským vláčkem a objeví židovské dědictví města.
-Score: 58%
-Genre: 
-----------------------------------------
-Title: V továrně 2
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 17:50
-End Time: 19:00
-Duration: 70 min
-Channel: BBC Earth
-Link: /8345831-sk/program/v-tovarne/
-Original Name: Inside the Factory
-Year: 2024
-Description: VB (2024). Gregg Wallace prozkoumá továrnu na bonbóny Jelly Beans v Dublinu, aby následně představil neuvěřitelné postupy potřebné pro výrobu deseti milionů těchto malých sladkostí každý den.
-Score: 56%
-Genre: 
-----------------------------------------
-Title: Život pod bodem mrazu 13
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 19:00
-End Time: 20:00
-Duration: 60 min
-Channel: BBC Earth
-Link: /5545023-sk/program/zivot-pod-bodem-mrazu/
-Original Name: Life Below Zero
-Year: 2021
-Description: VB (2021). Od severní hranice Aljašky až po její jižní cíp přichází nebezpečí ve všech podobách a velikostech...
-Score: 57%
-Genre: 
-----------------------------------------
-Title: Ben Fogle: Návrat do divočiny 3
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 20:00
-End Time: 21:00
-Duration: 60 min
-Channel: BBC Earth
-Link: /14782247-sk/program/ben-fogle-navrat-do-divociny/
-Original Name: Ben Fogle: Return to the Wild
-Year: 2024
-Description: VB (2024). Ben znovu navštíví své staré přátele Georga a Bettinu, kteří žijí na odlehlém rašeliništi v hrabství Mayo. V irské divočině našli útěchu, ale po třech letech stále zvažují možnosti. Uvádí: Ben Fogle.
-Score: 59%
-Genre: 
-----------------------------------------
-Title: Země 1
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 21:00
-End Time: 22:15
-Duration: 75 min
-Channel: BBC Earth
-Link: /program/zeme/
-Original Name: Earth
-Year: 2023
-Description: VB (2023). Chris Packham zkoumá dramatický okamžik, kdy byl na Zemi vyhuben téměř veškerý život.
-Score: 57%
-Genre: 
-----------------------------------------
-Title: Rybaření na hraně 8
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 22:15
-End Time: 23:25
-Duration: 70 min
-Channel: BBC Earth
-Link: /12565693-sk/program/rybareni-na-hrane/
-Original Name: Fishing Impossible
-Year: 2016
-Description: VB (2016). Tým dostal za úkol ulovit mníka z vraků z první a druhé světové války ve Scapa Flow ve Skotsku. Protože je však velká zima, jsou ryby ve vracích lodí zalezlé, a tak bude potřeba důmyslný plán, jak je chytit. Uvádí: Jason Lewis, Tom Hird (aka The Blowfish) a Charlie Butcher.
-Score: 41%
-Genre: 
-----------------------------------------
-Title: Julius Caesar: Stvoření diktátora 3
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 23:25
-End Time: 00:15
-Duration: 50 min
-Channel: BBC Earth
-Link: /11840437-sk/program/julius-caesar-stvoreni-diktatora/
-Original Name: Julius Caesar: The Making of a Dictator
-Year: 2023
-Description: VB (2023). Caesarovy ambice se mění v tyranii. Hrstka senátorů zosnuje plán, jak ukončit jeho vládu jediným možným způsobem: zabít ho. Bude to však k záchraně republiky stačit?
-Score: 57%
-Genre: 
-----------------------------------------
-Title: Fatální předpověď 3
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 00:35
-End Time: 01:50
-Duration: 75 min
-Channel: BBC Earth
-Link: /5545527-sk/program/fatalni-predpoved/
-Original Name: Fatal Forecast
-Year: 2020
-Description: VB (2020). Polární vír je rozsáhlá oblast nízkého tlaku a vířícího chladného vzduchu nacházející se obvykle v polárních částech. Jak je moźné, že v roce 2019 vytvořil v Chicagu podobný vír povětrnostní podmínky, které byly chladnější než ty na Marsu?
-Score: 55%
-Genre: 
-----------------------------------------
-Title: Život pod bodem mrazu 13
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 01:50
-End Time: 02:35
-Duration: 45 min
-Channel: BBC Earth
-Link: /5545023-sk/program/zivot-pod-bodem-mrazu/
-Original Name: Life Below Zero
-Year: 2021
-Description: VB (2021). Od severní hranice Aljašky až po její jižní cíp přichází nebezpečí ve všech podobách a velikostech...
-Score: 57%
-Genre: 
-----------------------------------------
-Title: Ben Fogle: Návrat do divočiny 3
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 02:35
-End Time: 03:20
-Duration: 45 min
-Channel: BBC Earth
-Link: /14782247-sk/program/ben-fogle-navrat-do-divociny/
-Original Name: Ben Fogle: Return to the Wild
-Year: 2024
-Description: VB (2024). Ben znovu navštíví své staré přátele Georga a Bettinu, kteří žijí na odlehlém rašeliništi v hrabství Mayo. V irské divočině našli útěchu, ale po třech letech stále zvažují možnosti. Uvádí: Ben Fogle.
-Score: 59%
-Genre: 
-----------------------------------------
-Title: Skryté kouzlo moderního života 1
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 03:20
-End Time: 04:15
-Duration: 55 min
-Channel: BBC Earth
-Link: /7661451-sk/program/skryte-kouzlo-moderniho-zivota/
-Original Name: The Secret Genius of Modern Life
-Year: 2023
-Description: VB (2023). Hannah získá přístup na přísně tajné pracoviště, kde anonymní zaměstnanci a nejmodernější technika pracují na tom, aby se britský pas stal jedním z nejbezpečnějších dokumentů na planetě.
-Score: 57%
-Genre: 
-----------------------------------------
-Title: Rybaření na hraně 8
-Day: Nedeľa
-Date: 05.10.2025
-Start Time: 04:15
-End Time: 05:05
-Duration: 50 min
-Channel: BBC Earth
-Link: /12565693-sk/program/rybareni-na-hrane/
-Original Name: Fishing Impossible
-Year: 2016
-Description: VB (2016). Tým dostal za úkol ulovit mníka z vraků z první a druhé světové války ve Scapa Flow ve Skotsku. Protože je však velká zima, jsou ryby ve vracích lodí zalezlé, a tak bude potřeba důmyslný plán, jak je chytit. Uvádí: Jason Lewis, Tom Hird (aka The Blowfish) a Charlie Butcher.
-Score: 41%
-Genre: 
-----------------------------------------
 Title: Fatální předpověď 3
 Day: Pondelok
 Date: 06.10.2025
@@ -2326,13 +1332,1007 @@ Title: Asie: Film o filmu 5
 Day: Štvrtok
 Date: 09.10.2025
 Start Time: 04:55
-End Time: 05:45
-Duration: 50 min
+End Time: 05:05
+Duration: 10 min
 Channel: BBC Earth
 Link: /12137757-sk/program/asie-film-o-filmu/
 Original Name: Asia: Making Of
 Year: 2024
 Description: VB (2024)
 Score: 52%
+Genre: 
+----------------------------------------
+Title: Nejnebezpečnější počasí na světě 13
+Day: Piatok
+Date: 10.10.2025
+Start Time: 05:05
+End Time: 06:00
+Duration: 55 min
+Channel: BBC Earth
+Link: /5898309-sk/program/nejnebezpecnejsi-pocasi-na-svete/
+Original Name: The World’s Deadliest Weather
+Year: 2020
+Description: VB (2020). Odvážný švédský lyžař zachytil děsivý okamžik, kdy ho pohřbila zaživa tsunami sněhu ve švýcarském Verbieru. V Kalifornii prudké lesní požáry ničí místní komunity a dobrý samaritán v Sacramentu zachraňuje zpanikařené řidiče, když plameny zachvátí dálnici.
+Score: 55%
+Genre: 
+----------------------------------------
+Title: Joanna Lumley na cestě za kořením 1
+Day: Piatok
+Date: 10.10.2025
+Start Time: 06:00
+End Time: 07:00
+Duration: 60 min
+Channel: BBC Earth
+Link: /program/joanna-lumley-na-ceste-za-korenim/
+Original Name: Joanna Lumley’s Spice Trail Adventure
+Year: 2023
+Description: VB (2023). Joanna Lumley se vydá na jednu ze svých dosud nejvýpravnějších cest, a to po kontinentech známých svým kořením. V tomto dílu se Joanna vypraví na odlehlé indonéské ostrovy Banda, které byly jediným místem na Zemi, kde rostl muškátový oříšek.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Život mimo civilizace s Benem Foglem 4
+Day: Piatok
+Date: 10.10.2025
+Start Time: 07:00
+End Time: 08:00
+Duration: 60 min
+Channel: BBC Earth
+Link: /10572137-sk/program/zivot-mimo-civilizace-s-benem-foglem/
+Original Name: Where the Wild Men Are with Ben Fogle
+Year: 2017
+Description: VB (2017). Ben vyrazí k pobřeží Severního ostrova Nového Zélandu, na Velký bariérový ostrov, kde se setká s mužem, jenž se vzdal slibné vědecké kariéry a vyměnil ji za život v ústraní mimo civilizaci. Uvádí: Ben Fogle.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Život pod bodem mrazu 15
+Day: Piatok
+Date: 10.10.2025
+Start Time: 08:00
+End Time: 08:55
+Duration: 55 min
+Channel: BBC Earth
+Link: /5545401-sk/program/zivot-pod-bodem-mrazu/
+Original Name: Life Below Zero
+Year: 2021
+Description: VB (2021). Obyvatelé Aljašky buď loví ptáky, aby si doplnili zásoby do mrazáku, nebo učí své mladé rodiny rybařit, případně si vychovávají štěně loveckého psa.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: V továrně 4
+Day: Piatok
+Date: 10.10.2025
+Start Time: 08:55
+End Time: 10:10
+Duration: 75 min
+Channel: BBC Earth
+Link: /10636231-sk/program/v-tovarne/
+Original Name: Inside the Factory
+Year: 2017
+Description: VB (2017). Gregg se zaměří na závod v Grimsby, který denně vyprodukuje 80 000 rybích prstů. Zjistí, že tresky sem putují ve stlačených zmražených kostkách, pak se nakrájí na příslušné tvary, projdou trojobalem a smaží se po dobu 45 sekund. Uvádí: Cherry Healey a Gregg Wallace.
+Score: 53%
+Genre: 
+----------------------------------------
+Title: Asie 7
+Day: Piatok
+Date: 10.10.2025
+Start Time: 10:10
+End Time: 11:25
+Duration: 75 min
+Channel: BBC Earth
+Link: /11338809-sk/program/asie/
+Original Name: Asia
+Year: 2024
+Description: VB (2024). Mnoho nadšenců se věnuje záchraně divokých zvířat v Asii. Tito lidé a jejich důmyslná řešení nám dodávají naději a optimismus ohledně budoucnost tohoto kontinentu.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Fatální předpověď 4
+Day: Piatok
+Date: 10.10.2025
+Start Time: 11:25
+End Time: 12:30
+Duration: 65 min
+Channel: BBC Earth
+Link: /5545981-sk/program/fatalni-predpoved/
+Original Name: Fatal Forecast
+Year: 2020
+Description: VB (2020). Povodně mohou zpustošit během chvilky jakékoli místo k nepoznání, protože rozbouřené vodě nestojí nic v cestě. Ze suché země se tak může stát řeka nebo z řeky noční můra. Povodně jsou nejčastější a nejrozšířenější ze všech přírodních katastrof.
+Score: 55%
+Genre: 
+----------------------------------------
+Title: Skryté kouzlo moderního života 2
+Day: Piatok
+Date: 10.10.2025
+Start Time: 12:30
+End Time: 13:40
+Duration: 70 min
+Channel: BBC Earth
+Link: /7741077-sk/program/skryte-kouzlo-moderniho-zivota/
+Original Name: The Secret Genius of Modern Life
+Year: 2023
+Description: VB (2023). Hannah se podívá do zákulisí výroby vysavačů Dyson a zjistí, jak se motor nejnovějšího typu vysavače točí devětkrát rychleji než motor závodního vozu Formule 1.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Joanna Lumley na cestě za kořením 2
+Day: Piatok
+Date: 10.10.2025
+Start Time: 13:40
+End Time: 14:40
+Duration: 60 min
+Channel: BBC Earth
+Link: /5829195-sk/program/joanna-lumley-na-ceste-za-korenim/
+Original Name: Joanna Lumley’s Spice Trail Adventure
+Year: 2023
+Description: VB (2023). Joanna se vrací do své rodné Indie, kde hledá základní surovinu, které se kdysi říkalo černé zlato. Začne v majestátním starobylém městě Hampi, kde ji místní horolezec pozve na oslnivý hinduistický festival.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Život pod bodem mrazu 16
+Day: Piatok
+Date: 10.10.2025
+Start Time: 14:40
+End Time: 15:35
+Duration: 55 min
+Channel: BBC Earth
+Link: /5545487-sk/program/zivot-pod-bodem-mrazu/
+Original Name: Life Below Zero
+Year: 2021
+Description: VB (2021). Aljaška je v rozkvětu a její obyvatelé musí i nadále využívat své dny k hledání zdrojů a příležitostí k obohacení svého života.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Život mimo civilizace s Benem Foglem 5
+Day: Piatok
+Date: 10.10.2025
+Start Time: 15:35
+End Time: 16:35
+Duration: 60 min
+Channel: BBC Earth
+Link: /10596867-sk/program/zivot-mimo-civilizace-s-benem-foglem/
+Original Name: Where the Wild Men Are with Ben Fogle
+Year: 2017
+Description: VB (2017). Ben se vydá do odlehlého kouta španělské Andalusie, kde se setká s britským párem Alanem a Lornou, kteří opustili svou kariéru v Brightonu, aby se stali chovateli alpak. Rovněž hledá nejvzácnější šelmu, rysa iberského. Uvádí: Ben Fogle.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Savci 1
+Day: Piatok
+Date: 10.10.2025
+Start Time: 16:35
+End Time: 17:55
+Duration: 80 min
+Channel: BBC Earth
+Link: /program/savci/
+Original Name: Mammals
+Year: 2024
+Description: VB (2024). Tato současná a nijak upravovaná série nabízí fascinující pohled na nejúspěšnější skupinu zvířat vůbec, od drobné bělozubky nejmenší po kolosálního plejtváka obrovského.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: V továrně 5
+Day: Piatok
+Date: 10.10.2025
+Start Time: 17:55
+End Time: 19:00
+Duration: 65 min
+Channel: BBC Earth
+Link: /10650737-sk/program/v-tovarne/
+Original Name: Inside the Factory
+Year: 2017
+Description: VB (2017). Gregg je v Nizozemsku v jednom z největších závodů na výrobu omáček, kde se podívá, jak se vyrábí majonéza. Navštíví farmu u Arnhemu, kde ho překvapí stroj na rozbíjení vajec, jenž dokáže za minutu oddělit 1 700 žloutků od bílků. Uvádí: Cherry Healey a Gregg Wallace.
+Score: 53%
+Genre: 
+----------------------------------------
+Title: Život pod bodem mrazu 9
+Day: Piatok
+Date: 10.10.2025
+Start Time: 19:00
+End Time: 20:00
+Duration: 60 min
+Channel: BBC Earth
+Link: /6733755-sk/program/zivot-pod-bodem-mrazu/
+Original Name: Life Below Zero
+Year: 2023
+Description: VB (2023). Obyvatelé Aljašky se snaží odolat poslednímu náporu zimy.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Život mimo civilizace s Benem Foglem 4
+Day: Piatok
+Date: 10.10.2025
+Start Time: 20:00
+End Time: 21:00
+Duration: 60 min
+Channel: BBC Earth
+Link: /5713141-sk/program/zivot-mimo-civilizace-s-benem-foglem/
+Original Name: Where the Wild Men Are with Ben Fogle
+Year: 2022
+Description: VB (2022). Připojíme se k Benovi na drsných útesech Cornwallu, kde žije u Daviny a Todda a jejich rodiny. Davina a Todd jsou temperamentní pár, který odešel z města do neznáma. Uvádí: Ben Fogle.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Ben Fogle: Návrat do divočiny 6
+Day: Piatok
+Date: 10.10.2025
+Start Time: 21:00
+End Time: 22:00
+Duration: 60 min
+Channel: BBC Earth
+Link: /15071321-sk/program/ben-fogle-navrat-do-divociny/
+Original Name: Ben Fogle: Return to the Wild
+Year: 2024
+Description: VB (2024). Ben se vrací k Willu Lordovi, pravému britskému jeskynnímu muži, v lesích Suffolku. Jak se Willovy prehistorické sny během tří let změnily a jak tento životní styl přijali jeho blízcí? Uvádí: Ben Fogle.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Dunaj s Joannou Lumley: Největší evropská řeka 3
+Day: Piatok
+Date: 10.10.2025
+Start Time: 22:00
+End Time: 23:05
+Duration: 65 min
+Channel: BBC Earth
+Link: /14845383-sk/program/dunaj-s-joannou-lumley-nejvetsi-evropska-reka/
+Original Name: Joanna Lumley’s Danube: Europe’s Mightiest River
+Year: 2025
+Description: VB (2025). V Budapešti zkoumá Joanna řeku na lodi, sveze se i jedinečným dětským vláčkem a objeví židovské dědictví města.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Nejnebezpečnější počasí na světě 1
+Day: Piatok
+Date: 10.10.2025
+Start Time: 23:05
+End Time: 23:55
+Duration: 50 min
+Channel: BBC Earth
+Link: /5907673-sk/program/nejnebezpecnejsi-pocasi-na-svete/
+Original Name: The World’s Deadliest Weather
+Year: 2021
+Description: VB (2021). V Louisianě ničí hurikán Ida domy a životy. V Norsku přinutí rozbouřené moře a silný vítr kapitána opustit loď. A v Kalifornii řádí lesní požáry.
+Score: 55%
+Genre: 
+----------------------------------------
+Title: Superchirurgové 3
+Day: Piatok
+Date: 10.10.2025
+Start Time: 00:10
+End Time: 01:15
+Duration: 65 min
+Channel: BBC Earth
+Link: /11434871-sk/program/superchirurgove/
+Original Name: Super Surgeons
+Year: 2024
+Description: VB (2024). Lauren, které je 30 let, má od svých osmi let vzácnou rakovinu zvanou myxoidní liposarkom. Může ji operace vyléčit a umožnit jí konečně dál žít?
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Život pod bodem mrazu 9
+Day: Piatok
+Date: 10.10.2025
+Start Time: 01:15
+End Time: 02:15
+Duration: 60 min
+Channel: BBC Earth
+Link: /6733755-sk/program/zivot-pod-bodem-mrazu/
+Original Name: Life Below Zero
+Year: 2023
+Description: VB (2023). Obyvatelé Aljašky se snaží odolat poslednímu náporu zimy.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Život mimo civilizace s Benem Foglem 4
+Day: Piatok
+Date: 10.10.2025
+Start Time: 02:15
+End Time: 03:05
+Duration: 50 min
+Channel: BBC Earth
+Link: /5713141-sk/program/zivot-mimo-civilizace-s-benem-foglem/
+Original Name: Where the Wild Men Are with Ben Fogle
+Year: 2022
+Description: VB (2022). Připojíme se k Benovi na drsných útesech Cornwallu, kde žije u Daviny a Todda a jejich rodiny. Davina a Todd jsou temperamentní pár, který odešel z města do neznáma. Uvádí: Ben Fogle.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Ben Fogle: Návrat do divočiny 6
+Day: Piatok
+Date: 10.10.2025
+Start Time: 03:05
+End Time: 03:50
+Duration: 45 min
+Channel: BBC Earth
+Link: /15071321-sk/program/ben-fogle-navrat-do-divociny/
+Original Name: Ben Fogle: Return to the Wild
+Year: 2024
+Description: VB (2024). Ben se vrací k Willu Lordovi, pravému britskému jeskynnímu muži, v lesích Suffolku. Jak se Willovy prehistorické sny během tří let změnily a jak tento životní styl přijali jeho blízcí? Uvádí: Ben Fogle.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Dunaj s Joannou Lumley: Největší evropská řeka 3
+Day: Piatok
+Date: 10.10.2025
+Start Time: 03:50
+End Time: 04:40
+Duration: 50 min
+Channel: BBC Earth
+Link: /14845383-sk/program/dunaj-s-joannou-lumley-nejvetsi-evropska-reka/
+Original Name: Joanna Lumley’s Danube: Europe’s Mightiest River
+Year: 2025
+Description: VB (2025). V Budapešti zkoumá Joanna řeku na lodi, sveze se i jedinečným dětským vláčkem a objeví židovské dědictví města.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Smrtící mise za žraloky 6
+Day: Piatok
+Date: 10.10.2025
+Start Time: 04:40
+End Time: 05:05
+Duration: 25 min
+Channel: BBC Earth
+Link: /6711205-sk/program/smrtici-mise-za-zraloky/
+Original Name: Deadly Mission Shark
+Year: 2023
+Description: VB (2023). Je čas slavit, protože tým deseti zachránců žraloků Steva Backshalla prošel výcvikem potápění a nyní jsou z nich plně kvalifikovaní potápěči.
+Score: 54%
+Genre: 
+----------------------------------------
+Title: Nejnebezpečnější počasí na světě 1
+Day: Sobota
+Date: 11.10.2025
+Start Time: 05:05
+End Time: 06:00
+Duration: 55 min
+Channel: BBC Earth
+Link: /5907673-sk/program/nejnebezpecnejsi-pocasi-na-svete/
+Original Name: The World’s Deadliest Weather
+Year: 2021
+Description: VB (2021). V Louisianě ničí hurikán Ida domy a životy. V Norsku přinutí rozbouřené moře a silný vítr kapitána opustit loď. A v Kalifornii řádí lesní požáry.
+Score: 55%
+Genre: 
+----------------------------------------
+Title: Ben Fogle: Návrat do divočiny 5
+Day: Sobota
+Date: 11.10.2025
+Start Time: 06:00
+End Time: 07:05
+Duration: 65 min
+Channel: BBC Earth
+Link: /5919783-sk/program/ben-fogle-navrat-do-divociny/
+Original Name: Ben Fogle: Return to the Wild
+Year: 2022
+Description: VB (2022). Ben Fogle se vrací do Švédska navštívit Italku Annalisu, která žije hluboko v lesích se svým malým synem Nicem. Uvádí: Ben Fogle.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Putování s dinosaury 5
+Day: Sobota
+Date: 11.10.2025
+Start Time: 07:05
+End Time: 08:10
+Duration: 65 min
+Channel: BBC Earth
+Link: /14952363-sk/program/putovani-s-dinosaury/
+Original Name: Walking with Dinosaurs
+Year: 2025
+Description: VB (2025). Epický příběh o stádu pachyrhinosaurů, jedné z největších skupin dinosaurů, které kdy žily, očima jeho mladého člena Albieho.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Život pod bodem mrazu 7
+Day: Sobota
+Date: 11.10.2025
+Start Time: 08:10
+End Time: 09:10
+Duration: 60 min
+Channel: BBC Earth
+Link: /6024267-sk/program/zivot-pod-bodem-mrazu/
+Original Name: Life Below Zero
+Year: 2019
+Description: VB (2019). Sue sbírá palivové dříví. Ricko a jeho syn Skyler jdou chytat bobra. Jessie zkoumá svou nově zakoupenou půdu. Hailstoneovi jsou na řece.
+Score: 55%
+Genre: 
+----------------------------------------
+Title: Život mimo civilizace s Benem Foglem 1
+Day: Sobota
+Date: 11.10.2025
+Start Time: 09:10
+End Time: 10:10
+Duration: 60 min
+Channel: BBC Earth
+Link: /5628923-sk/program/zivot-mimo-civilizace-s-benem-foglem/
+Original Name: Where the Wild Men Are with Ben Fogle
+Year: 2022
+Description: VB (2022). Dobrodruh Ben Fogle se vydává do hor středního Portugalska, aby zde žil s Alexem, Britem, který vyměnil svou lukrativní kariéru maloobchodníka za vlastní útočiště v horách. Později Ben zastřihuje stromy, aby je ochránil před lesními požáry. Uvádí: Ben Fogle.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: V továrně 2
+Day: Sobota
+Date: 11.10.2025
+Start Time: 10:10
+End Time: 11:15
+Duration: 65 min
+Channel: BBC Earth
+Link: /8345831-sk/program/v-tovarne/
+Original Name: Inside the Factory
+Year: 2024
+Description: VB (2024). Gregg Wallace prozkoumá továrnu na bonbóny Jelly Beans v Dublinu, aby následně představil neuvěřitelné postupy potřebné pro výrobu deseti milionů těchto malých sladkostí každý den.
+Score: 56%
+Genre: 
+----------------------------------------
+Title: Zázraky Slunce s Darou Ó Briainem 2
+Day: Sobota
+Date: 11.10.2025
+Start Time: 11:15
+End Time: 12:20
+Duration: 65 min
+Channel: BBC Earth
+Link: /10135187-sk/program/zazraky-slunce-s-darou-o-briainem/
+Original Name: Wonders of the Sun with Dara Ó Briain
+Year: 2024
+Description: VB (2024). Dara zkoumá i temné stránky Slunce, od nebezpečí rakoviny kůže po sluneční erupce a vesmírný Bermudský trojúhelník. A také představí největší sluneční pec na světě.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Síly dávnověku 2
+Day: Sobota
+Date: 11.10.2025
+Start Time: 12:20
+End Time: 13:30
+Duration: 70 min
+Channel: BBC Earth
+Link: /5789665-sk/program/sily-davnoveku/
+Original Name: Ancient Powers
+Year: 2023
+Description: VB (2023). V nepředvídatelném světě musí naše starověké mocnosti položit základy svých společností, aby ukázaly svou sílu a ochránily svůj lid. Které si vystaví cestu ke slávě?
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Modrá planeta: Svět oceánů 1
+Day: Sobota
+Date: 11.10.2025
+Start Time: 13:30
+End Time: 14:40
+Duration: 70 min
+Channel: BBC Earth
+Link: /program/modra-planeta-svet-oceanu/
+Original Name: Blue Planet: A Natural History of The Oceans
+Year: 2001
+Description: VB (2001). Tato epizoda pojednává o složitosti oceánů, které podporují rozsáhlou rozmanitost života, ovlivňují naše počasí a jsou nedílnou součástí našeho života.
+Score: 48%
+Genre: 
+----------------------------------------
+Title: Život pod bodem mrazu 8
+Day: Sobota
+Date: 11.10.2025
+Start Time: 14:40
+End Time: 15:45
+Duration: 65 min
+Channel: BBC Earth
+Link: /6089701-sk/program/zivot-pod-bodem-mrazu/
+Original Name: Life Below Zero
+Year: 2019
+Description: VB (2019). Sue jede domů do Kaviku. Andy a Denise se vracejí do Eagle. Jessie se připravuje na závod Iditarod. Hailstoneovi v Kiwaliku provádějí domácí práce.
+Score: 56%
+Genre: 
+----------------------------------------
+Title: Ben Fogle: Návrat do divočiny 6
+Day: Sobota
+Date: 11.10.2025
+Start Time: 15:45
+End Time: 16:45
+Duration: 60 min
+Channel: BBC Earth
+Link: /8894455-sk/program/ben-fogle-navrat-do-divociny/
+Original Name: Ben Fogle: Return to the Wild
+Year: 2022
+Description: VB (2022). Ben Fogle se vrací do Bulharska, aby se po čtyřech letech opět setkal s nomády Miriam a Peterem. Uvádí: Ben Fogle.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Dunaj s Joannou Lumley: Největší evropská řeka 4
+Day: Sobota
+Date: 11.10.2025
+Start Time: 16:45
+End Time: 17:50
+Duration: 65 min
+Channel: BBC Earth
+Link: /14934661-sk/program/dunaj-s-joannou-lumley-nejvetsi-evropska-reka/
+Original Name: Joanna Lumley’s Danube: Europe’s Mightiest River
+Year: 2025
+Description: VB (2025). Joanna se vydává směrem k deltě Dunaje, jedné z posledních velkých oblastí divočiny, které v Evropě zbývají a jsou plné ptactva, včetně majestátního pelikána. U ústí řeky, na rumunském pobřeží Černého moře, se Joanna s Dunajem rozloučí a zavzpomíná na svou úžasnou cestu.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: V továrně 3
+Day: Sobota
+Date: 11.10.2025
+Start Time: 17:50
+End Time: 19:00
+Duration: 70 min
+Channel: BBC Earth
+Link: /8423725-sk/program/v-tovarne/
+Original Name: Inside the Factory
+Year: 2024
+Description: VB (2024). Gregg Wallace navštíví dvě továrny v Itálii a Walesu, aby prozkoumal fascinující záhady vzniku výroby velšských džín značky Hiut. Cherry Healey navštíví továrnu na zipy a zjistí, jak se vyrábí tento tolik potřebný doplněk.
+Score: 56%
+Genre: 
+----------------------------------------
+Title: Život pod bodem mrazu 14
+Day: Sobota
+Date: 11.10.2025
+Start Time: 19:00
+End Time: 20:00
+Duration: 60 min
+Channel: BBC Earth
+Link: /5545119-sk/program/zivot-pod-bodem-mrazu/
+Original Name: Life Below Zero
+Year: 2021
+Description: VB (2021). Od severu Aljašky až po její jižní cíp místní obyvatelé improvizují, když se jim porouchá některé základní vybavení.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Ben Fogle: Návrat do divočiny 4
+Day: Sobota
+Date: 11.10.2025
+Start Time: 20:00
+End Time: 21:00
+Duration: 60 min
+Channel: BBC Earth
+Link: /14873191-sk/program/ben-fogle-navrat-do-divociny/
+Original Name: Ben Fogle: Return to the Wild
+Year: 2024
+Description: VB (2024). Ben potřetí navštíví své staré přátele Billa a Boba, postarší dvojčata žijící v kaňonech Utahu, a zjistí, že jejich paranoia vůči okolnímu světu vzrostla. Uvádí: Ben Fogle.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Země 2
+Day: Sobota
+Date: 11.10.2025
+Start Time: 21:00
+End Time: 22:15
+Duration: 75 min
+Channel: BBC Earth
+Link: /5662679-sk/program/zeme/
+Original Name: Earth
+Year: 2023
+Description: VB (2023). Když prastará Země téměř celá zamrzne, málem to vyhubí veškerý život na ní.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Rybaření na hraně 9
+Day: Sobota
+Date: 11.10.2025
+Start Time: 22:15
+End Time: 23:20
+Duration: 65 min
+Channel: BBC Earth
+Link: /12576777-sk/program/rybareni-na-hrane/
+Original Name: Fishing Impossible
+Year: 2016
+Description: VB (2016). Tým se vydává na pobřeží Norska a statečně bojuje s teplotami pod bodem mrazu. Setkají se s domorodými členy kmene Sámů, se kterými se vydají na lov pod ledem a poté na psích spřeženích do cíle své cesty. Uvádí: Jason Lewis, Tom Hird (aka The Blowfish) a Charlie Butcher.
+Score: 41%
+Genre: 
+----------------------------------------
+Title: Velké kontinentální cesty po železnici 1
+Day: Sobota
+Date: 11.10.2025
+Start Time: 23:20
+End Time: 00:10
+Duration: 50 min
+Channel: BBC Earth
+Link: /program/velke-kontinentalni-cesty-po-zeleznici/
+Original Name: Great Continental Railway Journeys
+Year: 2017
+Description: VB (2017)
+Score: 55%
+Genre: 
+----------------------------------------
+Title: Fatální předpověď 4
+Day: Sobota
+Date: 11.10.2025
+Start Time: 00:35
+End Time: 01:40
+Duration: 65 min
+Channel: BBC Earth
+Link: /5545981-sk/program/fatalni-predpoved/
+Original Name: Fatal Forecast
+Year: 2020
+Description: VB (2020). Povodně mohou zpustošit během chvilky jakékoli místo k nepoznání, protože rozbouřené vodě nestojí nic v cestě. Ze suché země se tak může stát řeka nebo z řeky noční můra. Povodně jsou nejčastější a nejrozšířenější ze všech přírodních katastrof.
+Score: 55%
+Genre: 
+----------------------------------------
+Title: Život pod bodem mrazu 14
+Day: Sobota
+Date: 11.10.2025
+Start Time: 01:40
+End Time: 02:35
+Duration: 55 min
+Channel: BBC Earth
+Link: /5545119-sk/program/zivot-pod-bodem-mrazu/
+Original Name: Life Below Zero
+Year: 2021
+Description: VB (2021). Od severu Aljašky až po její jižní cíp místní obyvatelé improvizují, když se jim porouchá některé základní vybavení.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Ben Fogle: Návrat do divočiny 4
+Day: Sobota
+Date: 11.10.2025
+Start Time: 02:35
+End Time: 03:20
+Duration: 45 min
+Channel: BBC Earth
+Link: /14873191-sk/program/ben-fogle-navrat-do-divociny/
+Original Name: Ben Fogle: Return to the Wild
+Year: 2024
+Description: VB (2024). Ben potřetí navštíví své staré přátele Billa a Boba, postarší dvojčata žijící v kaňonech Utahu, a zjistí, že jejich paranoia vůči okolnímu světu vzrostla. Uvádí: Ben Fogle.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Skryté kouzlo moderního života 2
+Day: Sobota
+Date: 11.10.2025
+Start Time: 03:20
+End Time: 04:15
+Duration: 55 min
+Channel: BBC Earth
+Link: /7741077-sk/program/skryte-kouzlo-moderniho-zivota/
+Original Name: The Secret Genius of Modern Life
+Year: 2023
+Description: VB (2023). Hannah se podívá do zákulisí výroby vysavačů Dyson a zjistí, jak se motor nejnovějšího typu vysavače točí devětkrát rychleji než motor závodního vozu Formule 1.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Rybaření na hraně 9
+Day: Sobota
+Date: 11.10.2025
+Start Time: 04:15
+End Time: 05:05
+Duration: 50 min
+Channel: BBC Earth
+Link: /12576777-sk/program/rybareni-na-hrane/
+Original Name: Fishing Impossible
+Year: 2016
+Description: VB (2016). Tým se vydává na pobřeží Norska a statečně bojuje s teplotami pod bodem mrazu. Setkají se s domorodými členy kmene Sámů, se kterými se vydají na lov pod ledem a poté na psích spřeženích do cíle své cesty. Uvádí: Jason Lewis, Tom Hird (aka The Blowfish) a Charlie Butcher.
+Score: 41%
+Genre: 
+----------------------------------------
+Title: Fatální předpověď 4
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 05:05
+End Time: 06:00
+Duration: 55 min
+Channel: BBC Earth
+Link: /5545981-sk/program/fatalni-predpoved/
+Original Name: Fatal Forecast
+Year: 2020
+Description: VB (2020). Povodně mohou zpustošit během chvilky jakékoli místo k nepoznání, protože rozbouřené vodě nestojí nic v cestě. Ze suché země se tak může stát řeka nebo z řeky noční můra. Povodně jsou nejčastější a nejrozšířenější ze všech přírodních katastrof.
+Score: 55%
+Genre: 
+----------------------------------------
+Title: Ben Fogle: Návrat do divočiny 6
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 06:00
+End Time: 07:00
+Duration: 60 min
+Channel: BBC Earth
+Link: /8894455-sk/program/ben-fogle-navrat-do-divociny/
+Original Name: Ben Fogle: Return to the Wild
+Year: 2022
+Description: VB (2022). Ben Fogle se vrací do Bulharska, aby se po čtyřech letech opět setkal s nomády Miriam a Peterem. Uvádí: Ben Fogle.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Modrá planeta: Svět oceánů 1
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 07:00
+End Time: 08:05
+Duration: 65 min
+Channel: BBC Earth
+Link: /program/modra-planeta-svet-oceanu/
+Original Name: Blue Planet: A Natural History of The Oceans
+Year: 2001
+Description: VB (2001). Tato epizoda pojednává o složitosti oceánů, které podporují rozsáhlou rozmanitost života, ovlivňují naše počasí a jsou nedílnou součástí našeho života.
+Score: 48%
+Genre: 
+----------------------------------------
+Title: Život pod bodem mrazu 8
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 08:05
+End Time: 09:05
+Duration: 60 min
+Channel: BBC Earth
+Link: /6089701-sk/program/zivot-pod-bodem-mrazu/
+Original Name: Life Below Zero
+Year: 2019
+Description: VB (2019). Sue jede domů do Kaviku. Andy a Denise se vracejí do Eagle. Jessie se připravuje na závod Iditarod. Hailstoneovi v Kiwaliku provádějí domácí práce.
+Score: 56%
+Genre: 
+----------------------------------------
+Title: Život mimo civilizace s Benem Foglem 2
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 09:05
+End Time: 10:05
+Duration: 60 min
+Channel: BBC Earth
+Link: /5662557-sk/program/zivot-mimo-civilizace-s-benem-foglem/
+Original Name: Where the Wild Men Are with Ben Fogle
+Year: 2022
+Description: VB (2022). Ben se vydává na Smaragdový ostrov, tedy do Irska, aby navštívil Georga a Bettinu, starší pár z Rakouska a Německa, pro které se irská divočina stala domovem před téměř 40 lety. Uvádí: Ben Fogle.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: V továrně 3
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 10:05
+End Time: 11:20
+Duration: 75 min
+Channel: BBC Earth
+Link: /8423725-sk/program/v-tovarne/
+Original Name: Inside the Factory
+Year: 2024
+Description: VB (2024). Gregg Wallace navštíví dvě továrny v Itálii a Walesu, aby prozkoumal fascinující záhady vzniku výroby velšských džín značky Hiut. Cherry Healey navštíví továrnu na zipy a zjistí, jak se vyrábí tento tolik potřebný doplněk.
+Score: 56%
+Genre: 
+----------------------------------------
+Title: Einstein a Hawking: Mistři vesmíru 1
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 11:20
+End Time: 12:25
+Duration: 65 min
+Channel: BBC Earth
+Link: /program/einstein-a-hawking-mistri-vesmiru/
+Original Name: Einstein & Hawking: Masters of our Universe
+Year: 2019
+Description: VB (2019). Jeden z největších myslitelů 20. století. Einstein vytvořil teorii relativity, nástroj k objevení a předvídání toho, jak vesmír funguje - od jeho vzniku po konečný zánik.
+Score: 56%
+Genre: 
+----------------------------------------
+Title: Síly dávnověku 3
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 12:25
+End Time: 13:30
+Duration: 65 min
+Channel: BBC Earth
+Link: /5866195-sk/program/sily-davnoveku/
+Original Name: Ancient Powers
+Year: 2023
+Description: VB (2023). Starověké mocnosti musejí zbohatnout obchodováním se svými poklady a zpeněžením svého majetku. Kdo uspěje ve světě obchodu?
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Putování s dinosaury 6
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 13:30
+End Time: 14:35
+Duration: 65 min
+Channel: BBC Earth
+Link: /15055153-sk/program/putovani-s-dinosaury/
+Original Name: Walking with Dinosaurs
+Year: 2025
+Description: VB (2025). Příběh o kolosálním lusotitanovi. Tento 25 metrů dlouhý obr žil před 150 miliony let na ostrově známém jako Iberská Mesta, nyní v Portugalsku, a zastínil všechny ostatní dinosaury v této oblasti.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Život pod bodem mrazu 9
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 14:35
+End Time: 15:35
+Duration: 60 min
+Channel: BBC Earth
+Link: /6103229-sk/program/zivot-pod-bodem-mrazu/
+Original Name: Life Below Zero
+Year: 2019
+Description: VB (2019). Sue čistí svou stezku od sněhu. Denise se učí řídit saně tažené psy. Jessie klade past na králíky. Ricko učí svého syna Skylera lovit.
+Score: 56%
+Genre: 
+----------------------------------------
+Title: Ben Fogle: Návrat do divočiny 7
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 15:35
+End Time: 16:35
+Duration: 60 min
+Channel: BBC Earth
+Link: /8969615-sk/program/ben-fogle-navrat-do-divociny/
+Original Name: Ben Fogle: Return to the Wild
+Year: 2022
+Description: VB (2022). Ben se vydává do Thajska za Paulem a Sao, které poprvé navštívil v Kambodži. Paul a jeho rodina si postavili svou verzi anglického hradu. Uvádí: Ben Fogle.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Návrat do Cornwallu se Simonem Reevem 1
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 16:35
+End Time: 17:50
+Duration: 75 min
+Channel: BBC Earth
+Link: /program/navrat-do-cornwallu-se-simonem-reevem/
+Original Name: Simon Reeve’s Return to Cornwall
+Year: 2023
+Description: VB (2023). Simon Reeve se vrací navštívit jedno z nejoblíbenějších britských hrabství, aby se podíval na skutečný život místních obyvatel po odchodu letních turistů. Uvádí: Simon Reeve.
+Score: 56%
+Genre: 
+----------------------------------------
+Title: V továrně 4
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 17:50
+End Time: 19:00
+Duration: 70 min
+Channel: BBC Earth
+Link: /8522877-sk/program/v-tovarne/
+Original Name: 
+Year: 
+Description: 
+Score: 
+Genre: 
+----------------------------------------
+Title: Život pod bodem mrazu 15
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 19:00
+End Time: 20:00
+Duration: 60 min
+Channel: BBC Earth
+Link: /5545401-sk/program/zivot-pod-bodem-mrazu/
+Original Name: Life Below Zero
+Year: 2021
+Description: VB (2021). Obyvatelé Aljašky buď loví ptáky, aby si doplnili zásoby do mrazáku, nebo učí své mladé rodiny rybařit, případně si vychovávají štěně loveckého psa.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Ben Fogle: Návrat do divočiny 5
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 20:00
+End Time: 21:00
+Duration: 60 min
+Channel: BBC Earth
+Link: /14963187-sk/program/ben-fogle-navrat-do-divociny/
+Original Name: 
+Year: 
+Description: 
+Score: 
+Genre: 
+----------------------------------------
+Title: Země 3
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 21:00
+End Time: 22:15
+Duration: 75 min
+Channel: BBC Earth
+Link: /5721851-sk/program/zeme/
+Original Name: 
+Year: 
+Description: 
+Score: 
+Genre: 
+----------------------------------------
+Title: Rybaření na hraně 10
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 22:15
+End Time: 23:20
+Duration: 65 min
+Channel: BBC Earth
+Link: /12620665-sk/program/rybareni-na-hrane/
+Original Name: 
+Year: 
+Description: 
+Score: 
+Genre: 
+----------------------------------------
+Title: Velké kontinentální cesty po železnici 2
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 23:20
+End Time: 00:10
+Duration: 50 min
+Channel: BBC Earth
+Link: /14835689-sk/program/velke-kontinentalni-cesty-po-zeleznici/
+Original Name: 
+Year: 
+Description: 
+Score: 
+Genre: 
+----------------------------------------
+Title: Fatální předpověď 5
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 00:35
+End Time: 01:45
+Duration: 70 min
+Channel: BBC Earth
+Link: /5628961-sk/program/fatalni-predpoved/
+Original Name: Fatal Forecast
+Year: 2020
+Description: VB (2020). Bez deště není život. To je základní pravidlo přežití na této planetě. Sucho se vyskytuje téměř ve všech typech podnebí. Ze všech meteorologických jevů, které mohou způsobit vážné ekonomické následky, jsou sucha podle Národního klimatického datového centra na druhém místě za hurikány.
+Score: 55%
+Genre: 
+----------------------------------------
+Title: Život pod bodem mrazu 15
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 01:45
+End Time: 02:30
+Duration: 45 min
+Channel: BBC Earth
+Link: /5545401-sk/program/zivot-pod-bodem-mrazu/
+Original Name: Life Below Zero
+Year: 2021
+Description: VB (2021). Obyvatelé Aljašky buď loví ptáky, aby si doplnili zásoby do mrazáku, nebo učí své mladé rodiny rybařit, případně si vychovávají štěně loveckého psa.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Ben Fogle: Návrat do divočiny 5
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 02:30
+End Time: 03:15
+Duration: 45 min
+Channel: BBC Earth
+Link: /14963187-sk/program/ben-fogle-navrat-do-divociny/
+Original Name: Ben Fogle: Return to the Wild
+Year: 2024
+Description: VB (2024). Ben Fogle se vrací k Raurimu na ostrově Rathlin, který se rozhodl žít mimo civilizační sítě. Vymalují Rauriho dům a podiskutují o jeho zdravotních problémech i jeho odvážné cestě pro pomoc potřebným. Uvádí: Ben Fogle.
+Score: 58%
+Genre: 
+----------------------------------------
+Title: Skryté kouzlo moderního života 3
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 03:15
+End Time: 04:05
+Duration: 50 min
+Channel: BBC Earth
+Link: /7822627-sk/program/skryte-kouzlo-moderniho-zivota/
+Original Name: The Secret Genius of Modern Life
+Year: 2023
+Description: VB (2023). Díky vzácnému přístupu do továrny elektronického gigantu Samsung objeví Hannah technologické změny, díky nimž se stal chytrý telefon skutečností.
+Score: 57%
+Genre: 
+----------------------------------------
+Title: Rybaření na hraně 10
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 04:05
+End Time: 04:55
+Duration: 50 min
+Channel: BBC Earth
+Link: /12620665-sk/program/rybareni-na-hrane/
+Original Name: 
+Year: 
+Description: 
+Score: 
+Genre: 
+----------------------------------------
+Title: Asie: Film o filmu 6
+Day: Nedeľa
+Date: 12.10.2025
+Start Time: 04:55
+End Time: 05:45
+Duration: 50 min
+Channel: BBC Earth
+Link: /12149135-sk/program/asie-film-o-filmu/
+Original Name: 
+Year: 
+Description: 
+Score: 
 Genre: 
 ----------------------------------------
