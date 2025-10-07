@@ -3,10 +3,12 @@ import time
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
-# Base date: today is Thursday, 2 October 2025
+with open("/workspaces/tv_project/cron_log.txt", "a") as log:
+    from datetime import datetime
+    log.write(f"{datetime.now()}: Started {__file__}\n")
+
 base_date = datetime.today()
 
-# Slovak day names mapped to weekday index (0 = Monday)
 day_map = {
     'Pondelok': 0,
     'Utorok': 1,
@@ -17,26 +19,21 @@ day_map = {
     'Nedeľa': 6
 }
 
-# Generate date lookup for the week
 date_lookup = {}
 for name, weekday_index in day_map.items():
     delta = weekday_index - base_date.weekday()
     if delta < 0:
-        delta += 7  # wrap to next week
+        delta += 7
     date_lookup[name] = (base_date + timedelta(days=delta)).strftime('%d.%m.%Y')
 
-# Scrape the page
 url = 'https://tv-program.sk/national-geographic/cely-den/'
 response = requests.get(url)
 soup = BeautifulSoup(response.content.decode('utf-8', errors='replace'), 'html.parser')
 
-# Extract channel name
 channel_tag = soup.select_one('.page__title-name')
 channel_name = channel_tag.text.strip() if channel_tag else 'Unknown'
 
 all_programs = []
-
-# Loop through each day block
 for day_block in soup.select('.programme-list'):
     day_tag = day_block.select_one('.programme-list__header .col-auto.h4')
     day_name = day_tag.text.strip() if day_tag else 'Unknown'
@@ -69,10 +66,9 @@ def scrape_program_details(relative_url):
     full_url = f'https://www.tv-program.sk{relative_url}'
     try:
         response = requests.get(full_url, timeout=10)
-        time.sleep(0.5) 
+        time.sleep(0.5)
         soup = BeautifulSoup(response.content.decode('utf-8', errors='replace'), 'html.parser')
     except requests.exceptions.RequestException as e:
-        print(f"Error fetching {full_url}: {e}")
         return {
             'Original Name': '',
             'Year': '',
@@ -81,25 +77,18 @@ def scrape_program_details(relative_url):
             'Genre': ''
         }
 
+    original_name_tag = soup.find('strong', string=lambda s: s and 'Pôvodný názov' in s)
+    original_name = original_name_tag.find_next('span').text.strip() if original_name_tag and original_name_tag.find_next('span') else ''
 
+    year_tag = soup.find('strong', string=lambda s: s and 'Rok výroby' in s)
+    year = year_tag.find_next('span').text.strip() if year_tag and year_tag.find_next('span') else ''
 
-    # Extract original name
-    original_name_tag = soup.find('strong', string='Pôvodný názov:')
-    original_name = original_name_tag.find_next('span').text.strip() if original_name_tag else ''
-
-    # Extract year
-    year_tag = soup.find('strong', string='Rok výroby:')
-    year = year_tag.find_next('span').text.strip() if year_tag else ''
-
-    # Extract description
     description_tag = soup.select_one('.post__body p')
     description = description_tag.text.strip() if description_tag else ''
 
-    # Extract score
     score_tag = soup.select_one('.bg-warning .h3')
     score = score_tag.text.strip() if score_tag else ''
 
-    # Genre (if available)
     genre_tag = soup.select_one('.tagy')
     genre = genre_tag.text.strip() if genre_tag else ''
 
@@ -111,50 +100,17 @@ def scrape_program_details(relative_url):
         'Genre': genre
     }
 
+# Only keep programs for today's date
 
-# Calculate durations across the full list
-final_programs = []
-for i, program in enumerate(all_programs): #### FOR ALL FILMS
-################# SCRAP ADDITIONAL INFO FOR FIRST FIVE FILMS ONLY ############  for i, program in enumerate(all_programs[:5]):
 
-    start_time = program['Start Time Obj']
-    if start_time and i + 1 < len(all_programs):
-        next_start = all_programs[i + 1]['Start Time Obj']
-        duration = int((next_start - start_time).total_seconds() / 60)
-        if duration <= 0:
-            duration = 50
-        end_time = start_time + timedelta(minutes=duration)
-    elif start_time:
-        duration = 50
-        end_time = start_time + timedelta(minutes=duration)
-    else:
-        duration = ''
-        end_time = ''
-
-    details = scrape_program_details(program['Link'])
-
-    final_programs.append({
-        'Title': program['Title'],
-        'Day': program['Day'],
-        'Date': program['Date'],
-        'Start Time': program['Start Time'],
-        'End Time': end_time.strftime('%H:%M') if end_time else '',
-        'Duration': f'{duration} min' if duration else '',
-        'Channel': program['Channel'],
-        'Link': program['Link'],
-        'Original Name': details['Original Name'],
-        'Year': details['Year'],
-        'Description': details['Description'],
-        'Score': details['Score'],
-        'Genre': details['Genre']
-    })
-
+today_str = datetime.today().strftime('%d.%m.%Y')
+today_programs = [p for p in all_programs if p['Date'] == today_str]
 
 with open('tv_programs_national.txt', 'w', encoding='utf-8') as file:
-    for i, program in enumerate(all_programs):  ############ or ADD [:5] for only first five films
+    for i, program in enumerate(today_programs):
         start_time = program['Start Time Obj']
-        if start_time and i + 1 < len(all_programs):
-            next_start = all_programs[i + 1]['Start Time Obj']
+        if start_time and i + 1 < len(today_programs):
+            next_start = today_programs[i + 1]['Start Time Obj']
             duration = int((next_start - start_time).total_seconds() / 60)
             if duration <= 0:
                 duration = 50
@@ -168,7 +124,6 @@ with open('tv_programs_national.txt', 'w', encoding='utf-8') as file:
 
         details = scrape_program_details(program['Link'])
 
-        # Write directly to file
         for key, value in {
             'Title': program['Title'],
             'Day': program['Day'],

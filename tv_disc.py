@@ -3,8 +3,13 @@ import time
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
+with open("/workspaces/tv_project/cron_log.txt", "a") as log:
+    from datetime import datetime
+    log.write(f"{datetime.now()}: Started {__file__}\n")
+
 # Base date: today is Thursday, 2 October 2025
 base_date = datetime.today()
+
 
 # Slovak day names mapped to weekday index (0 = Monday)
 day_map = {
@@ -113,49 +118,20 @@ def scrape_program_details(relative_url):
 
 
 # Calculate durations across the full list
-final_programs = []
-for i, program in enumerate(all_programs): #### FOR ALL FILMS
-################# SCRAP ADDITIONAL INFO FOR FIRST FIVE FILMS ONLY ############  for i, program in enumerate(all_programs[:5]):
+## Removed duplicate and misplaced blocks. All logic now runs after all_programs is defined.
 
-    start_time = program['Start Time Obj']
-    if start_time and i + 1 < len(all_programs):
-        next_start = all_programs[i + 1]['Start Time Obj']
-        duration = int((next_start - start_time).total_seconds() / 60)
-        if duration <= 0:
-            duration = 50
-        end_time = start_time + timedelta(minutes=duration)
-    elif start_time:
-        duration = 50
-        end_time = start_time + timedelta(minutes=duration)
-    else:
-        duration = ''
-        end_time = ''
+today_str = datetime.today().strftime('%d.%m.%Y')
+today_programs = [p for p in all_programs if p['Date'] == today_str]
 
-    details = scrape_program_details(program['Link'])
-
-    final_programs.append({
-        'Title': program['Title'],
-        'Day': program['Day'],
-        'Date': program['Date'],
-        'Start Time': program['Start Time'],
-        'End Time': end_time.strftime('%H:%M') if end_time else '',
-        'Duration': f'{duration} min' if duration else '',
-        'Channel': program['Channel'],
-        'Link': program['Link'],
-        'Original Name': details['Original Name'],
-        'Year': details['Year'],
-        'Description': details['Description'],
-        'Score': details['Score'],
-        'Genre': details['Genre']
-    })
-
-
+# Defensive: If 'Start Time Obj' is missing, skip the entry
 with open('tv_programs_disc.txt', 'w', encoding='utf-8') as file:
-    for i, program in enumerate(all_programs):  ############ or ADD [:5] for only first five films
+    for i, program in enumerate(today_programs):
+        if 'Start Time Obj' not in program or program['Start Time Obj'] is None:
+            continue
         start_time = program['Start Time Obj']
-        if start_time and i + 1 < len(all_programs):
-            next_start = all_programs[i + 1]['Start Time Obj']
-            duration = int((next_start - start_time).total_seconds() / 60)
+        if start_time and i + 1 < len(today_programs):
+            next_start = today_programs[i + 1].get('Start Time Obj')
+            duration = int((next_start - start_time).total_seconds() / 60) if next_start else 50
             if duration <= 0:
                 duration = 50
             end_time = start_time + timedelta(minutes=duration)
@@ -168,21 +144,20 @@ with open('tv_programs_disc.txt', 'w', encoding='utf-8') as file:
 
         details = scrape_program_details(program['Link'])
 
-        # Write directly to file
         for key, value in {
-            'Title': program['Title'],
-            'Day': program['Day'],
-            'Date': program['Date'],
-            'Start Time': program['Start Time'],
+            'Title': program.get('Title', ''),
+            'Day': program.get('Day', ''),
+            'Date': program.get('Date', ''),
+            'Start Time': program.get('Start Time', ''),
             'End Time': end_time.strftime('%H:%M') if end_time else '',
             'Duration': f'{duration} min' if duration else '',
-            'Channel': program['Channel'],
-            'Link': program['Link'],
-            'Original Name': details['Original Name'],
-            'Year': details['Year'],
-            'Description': details['Description'],
-            'Score': details['Score'],
-            'Genre': details['Genre']
+            'Channel': program.get('Channel', ''),
+            'Link': program.get('Link', ''),
+            'Original Name': details.get('Original Name', ''),
+            'Year': details.get('Year', ''),
+            'Description': details.get('Description', ''),
+            'Score': details.get('Score', ''),
+            'Genre': details.get('Genre', '')
         }.items():
             file.write(f"{key}: {value}\n")
         file.write("-" * 40 + "\n")

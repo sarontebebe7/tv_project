@@ -2,6 +2,10 @@ import sqlite3
 import os
 import re
 
+with open("/workspaces/tv_project/cron_log.txt", "a") as log:
+    from datetime import datetime
+    log.write(f"{datetime.now()}: Started {__file__}\n")
+
 db_path = "tvguide.db"
 txt_files = [
     "tv_programs_bbc.txt",
@@ -58,8 +62,7 @@ def main():
             year TEXT,
             description TEXT,
             score TEXT,
-            genre TEXT,
-            source_file TEXT
+            genre TEXT
         )
     """)
     for txt_file in txt_files:
@@ -72,8 +75,8 @@ def main():
             if prog.get("Title", "") and prog.get("Channel", ""):
                 c.execute("""
                     INSERT INTO tv_programs (
-                        title, day, date, start_time, end_time, duration, channel, link, original_name, year, description, score, genre, source_file
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                        title, day, date, start_time, end_time, duration, channel, link, original_name, year, description, score, genre
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """, (
                     prog.get("Title", ""),
                     prog.get("Day", ""),
@@ -87,8 +90,7 @@ def main():
                     prog.get("Year", ""),
                     prog.get("Description", ""),
                     prog.get("Score", ""),
-                    prog.get("Genre", ""),
-                    txt_file
+                    prog.get("Genre", "")
                 ))
     conn.commit()
     conn.close()

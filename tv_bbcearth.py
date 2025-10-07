@@ -3,6 +3,10 @@ import time
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
+with open("/workspaces/tv_project/cron_log.txt", "a") as log:
+    from datetime import datetime
+    log.write(f"{datetime.now()}: Started {__file__}\n")
+
 # Base date: today is Thursday, 2 October 2025
 base_date = datetime.today()
 
@@ -84,20 +88,39 @@ def scrape_program_details(relative_url):
 
 
     # Extract original name
-    original_name_tag = soup.find('strong', string='Pôvodný názov:')
-    original_name = original_name_tag.find_next('span').text.strip() if original_name_tag else ''
+    original_name = ''
+    original_name_tag = soup.find('strong', string=lambda s: s and 'Pôvodný názov' in s)
+    if original_name_tag:
+        span = original_name_tag.find_next('span')
+        if span:
+            original_name = span.text.strip()
 
     # Extract year
-    year_tag = soup.find('strong', string='Rok výroby:')
-    year = year_tag.find_next('span').text.strip() if year_tag else ''
+    year = ''
+    year_tag = soup.find('strong', string=lambda s: s and 'Rok výroby' in s)
+    if year_tag:
+        span = year_tag.find_next('span')
+        if span:
+            year = span.text.strip()
 
-    # Extract description
+    # Extract description (try .post__body p, fallback to .fs-7)
+    description = ''
     description_tag = soup.select_one('.post__body p')
-    description = description_tag.text.strip() if description_tag else ''
+    if not description_tag:
+        description_tag = soup.select_one('.fs-7')
+    if description_tag:
+        description = description_tag.text.strip()
 
-    # Extract score
+    # Extract score (try .bg-warning .h3, fallback to yellow box)
+    score = ''
     score_tag = soup.select_one('.bg-warning .h3')
-    score = score_tag.text.strip() if score_tag else ''
+    if not score_tag:
+        # Try to find yellow box with percentage
+        score_box = soup.find('div', style=lambda s: s and 'background-color' in s)
+        if score_box:
+            score = score_box.text.strip()
+    else:
+        score = score_tag.text.strip()
 
     # Genre (if available)
     genre_tag = soup.select_one('.tagy')
@@ -150,11 +173,16 @@ for i, program in enumerate(all_programs): #### FOR ALL FILMS
     })
 
 
+
+# Only keep programs for today's date
+today_str = datetime.today().strftime('%d.%m.%Y')
+today_programs = [p for p in all_programs if p['Date'] == today_str]
+
 with open('tv_programs_bbc.txt', 'w', encoding='utf-8') as file:
-    for i, program in enumerate(all_programs):  ############ or ADD [:5] for only first five films
+    for i, program in enumerate(today_programs):
         start_time = program['Start Time Obj']
-        if start_time and i + 1 < len(all_programs):
-            next_start = all_programs[i + 1]['Start Time Obj']
+        if start_time and i + 1 < len(today_programs):
+            next_start = today_programs[i + 1]['Start Time Obj']
             duration = int((next_start - start_time).total_seconds() / 60)
             if duration <= 0:
                 duration = 50
